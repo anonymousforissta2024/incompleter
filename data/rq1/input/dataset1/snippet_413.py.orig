@@ -1,0 +1,6 @@
+# Extracted from https://stackoverflow.com/questions/2474015/getting-the-index-of-the-returned-max-or-min-item-using-max-min-on-a-list
+min_value = min(values)
+indexes_with_min_value = [i for i in range(0,len(values)) if values[i] == min_value]
+
+choosen = indexes_with_min_value[0]
+

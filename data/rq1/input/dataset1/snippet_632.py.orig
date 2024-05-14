@@ -1,0 +1,4 @@
+# Extracted from https://stackoverflow.com/questions/4319825/python-unittest-opposite-of-assertraises
+p = SomeClass(param1=_param1_value)
+self.assertTrue(isinstance(p, SomeClass))
+

@@ -1,0 +1,1190 @@
+{
+  "412-1": {
+    "df": "object"
+  },
+  "56-1": {
+    "weekdays": "list"
+  },
+  "20-2": {
+    "color1": "list"
+  },
+  "456-0": {
+    "nums_arr": "list"
+  },
+  "12-0": {
+    "new_nums": "list"
+  },
+  "106-0": {
+    "str1": "str"
+  },
+  "142-1": {
+    "students": "list"
+  },
+  "276-0": {
+    "nums1": "list"
+  },
+  "250-2": {
+    "x": "int"
+  },
+  "8-0": {
+    "nums": "object"
+  },
+  "112-0": {
+    "student": "list"
+  },
+  "438-0": {
+    "x": "object"
+  },
+  "316-2": {
+    "list2": "list"
+  },
+  "397-0": {
+    "thbday": "object"
+  },
+  "295-1": {
+    "spec_index": "int"
+  },
+  "193-2": {
+    "d4": "object"
+  },
+  "168-0": {
+    "x": "object"
+  },
+  "42-1": {
+    "new_array1": "object"
+  },
+  "177-1": {
+    "color1": "list"
+  },
+  "19-1": {
+    "x": "int"
+  },
+  "207-1": {
+    "a2": "object"
+  },
+  "15-2": {
+    "df": "list"
+  },
+  "463-0": {
+    "nums1": "list"
+  },
+  "149-0": {
+    "X": "object"
+  },
+  "27-0": {
+    "new_s": "object"
+  },
+  "239-0": {
+    "n_list": "list"
+  },
+  "3-1": {
+    "new_num": "object"
+  },
+  "477-0": {
+    "df": "str"
+  },
+  "194-0": {
+    "students": "list"
+  },
+  "49-0": {
+    "nums1": "list"
+  },
+  "347-0": {
+    "df": "object"
+  },
+  "171-0": {
+    "list1": "list"
+  },
+  "303-1": {
+    "y": "int"
+  },
+  "21-1": {
+    "result": "object"
+  },
+  "435-0": {
+    "a": "object"
+  },
+  "329-0": {
+    "student": "dict"
+  },
+  "471-1": {
+    "df": "object"
+  },
+  "215-0": {
+    "result": "object"
+  },
+  "298-1": {
+    "b": "int"
+  },
+  "50-0": {
+    "df": "dict"
+  },
+  "287-0": {
+    "df": "dict"
+  },
+  "385-1": {
+    "y": "list"
+  },
+  "26-3": {
+    "nums_y": "object"
+  },
+  "450-1": {
+    "array2": "object"
+  },
+  "499-1": {
+    "result": "object"
+  },
+  "234-0": {
+    "x": "list"
+  },
+  "372-0": {
+    "np_array": "object"
+  },
+  "114-1": {
+    "new_nums": "object"
+  },
+  "220-0": {
+    "a": "object"
+  },
+  "118-2": {
+    "result": "object"
+  },
+  "432-2": {
+    "c": "object"
+  },
+  "44-0": {
+    "nums": "object"
+  },
+  "465-0": {
+    "result": "object"
+  },
+  "379-0": {
+    "nums1": "list"
+  },
+  "21-0": {
+    "nums": "list"
+  },
+  "135-0": {
+    "df": "dict"
+  },
+  "69-2": {
+    "r1": "object"
+  },
+  "303-0": {
+    "x": "int"
+  },
+  "171-1": {
+    "color1": "list"
+  },
+  "298-0": {
+    "a": "int"
+  },
+  "251-0": {
+    "result": "object"
+  },
+  "35-0": {
+    "result": "object"
+  },
+  "270-0": {
+    "array_num": "list"
+  },
+  "372-1": {
+    "df": "object"
+  },
+  "100-0": {
+    "sample_text": "object"
+  },
+  "304-2": {
+    "N": "int"
+  },
+  "234-1": {
+    "new_data": "int"
+  },
+  "450-0": {
+    "array1": "object"
+  },
+  "26-2": {
+    "nums_copy": "object"
+  },
+  "308-1": {
+    "input_string": "str"
+  },
+  "322-0": {
+    "num1": "str"
+  },
+  "199-1": {
+    "array_num": "object"
+  },
+  "276-1": {
+    "nums3": "list"
+  },
+  "248-0": {
+    "array_num": "object"
+  },
+  "12-1": {
+    "nums": "object"
+  },
+  "456-1": {
+    "result": "object"
+  },
+  "56-0": {
+    "days": "list"
+  },
+  "138-0": {
+    "nums": "object"
+  },
+  "412-0": {
+    "result": "object"
+  },
+  "406-0": {
+    "x": "object"
+  },
+  "70-2": {
+    "texts": "list"
+  },
+  "42-0": {
+    "q": "int"
+  },
+  "193-3": {
+    "d1": "object"
+  },
+  "295-0": {
+    "chars": "list"
+  },
+  "377-4": {
+    "df3": "object"
+  },
+  "214-2": {
+    "list2": "list"
+  },
+  "8-1": {
+    "x": "object"
+  },
+  "438-1": {
+    "y": "object"
+  },
+  "120-3": {
+    "l1": "list"
+  },
+  "226-0": {
+    "str1": "str"
+  },
+  "156-0": {
+    "x": "object"
+  },
+  "360-0": {
+    "a2": "object"
+  },
+  "239-1": {
+    "result": "list"
+  },
+  "427-0": {
+    "s": "object"
+  },
+  "27-1": {
+    "n": "int"
+  },
+  "149-1": {
+    "Y": "object"
+  },
+  "463-1": {
+    "nums2": "list"
+  },
+  "207-0": {
+    "x": "object"
+  },
+  "19-0": {
+    "y": "int"
+  },
+  "494-0": {
+    "L": "object"
+  },
+  "177-0": {
+    "color2": "list"
+  },
+  "221-2": {
+    "r1": "object"
+  },
+  "49-1": {
+    "nums2": "list"
+  },
+  "477-1": {
+    "result": "object"
+  },
+  "269-0": {
+    "array_2D": "object"
+  },
+  "433-0": {
+    "df": "dict"
+  },
+  "119-0": {
+    "items": "object"
+  },
+  "3-0": {
+    "num": "list"
+  },
+  "77-0": {
+    "students": "list"
+  },
+  "104-4": {
+    "month": "callable"
+  },
+  "113-0": {
+    "new_array": "object"
+  },
+  "439-0": {
+    "items": "str"
+  },
+  "9-0": {
+    "result": "object"
+  },
+  "263-0": {
+    "result": "object"
+  },
+  "219-0": {
+    "colors_list": "list"
+  },
+  "407-1": {
+    "colors": "list"
+  },
+  "396-0": {
+    "df": "dict"
+  },
+  "471-2": {
+    "df1": "object"
+  },
+  "169-0": {
+    "nums": "object"
+  },
+  "379-2": {
+    "nums2": "list"
+  },
+  "457-0": {
+    "str1": "str"
+  },
+  "465-2": {
+    "char": "str"
+  },
+  "382-0": {
+    "result": "object"
+  },
+  "277-0": {
+    "ctr": "int"
+  },
+  "331-0": {
+    "df": "dict"
+  },
+  "268-1": {
+    "nums2": "object"
+  },
+  "118-1": {
+    "result1": "object"
+  },
+  "310-0": {
+    "my_tuple": "object"
+  },
+  "81-0": {
+    "result": "object"
+  },
+  "288-4": {
+    "char_list": "list"
+  },
+  "418-0": {
+    "nums1": "list"
+  },
+  "304-0": {
+    "result": "list"
+  },
+  "495-1": {
+    "chars": "list"
+  },
+  "238-0": {
+    "color1": "list"
+  },
+  "148-0": {
+    "s": "object"
+  },
+  "193-1": {
+    "d2": "object"
+  },
+  "397-3": {
+    "tbday": "object"
+  },
+  "42-2": {
+    "p": "int"
+  },
+  "434-0": {
+    "colors": "list"
+  },
+  "250-1": {
+    "num_position": "object"
+  },
+  "299-1": {
+    "student_data": "object"
+  },
+  "352-0": {
+    "json_obj": "object"
+  },
+  "120-1": {
+    "c1": "object"
+  },
+  "214-0": {
+    "list1": "list"
+  },
+  "87-1": {
+    "df": "dict"
+  },
+  "316-1": {
+    "list3": "list"
+  },
+  "8-3": {
+    "n": "int"
+  },
+  "170-0": {
+    "rand_num": "object"
+  },
+  "64-0": {
+    "students": "dict"
+  },
+  "20-1": {
+    "color2": "list"
+  },
+  "115-1": {
+    "new_array": "object"
+  },
+  "367-0": {
+    "x": "object"
+  },
+  "401-0": {
+    "l": "object"
+  },
+  "45-0": {
+    "str_list1": "list"
+  },
+  "445-1": {
+    "odd_nums": "list"
+  },
+  "286-0": {
+    "items": "object"
+  },
+  "309-0": {
+    "items": "object"
+  },
+  "207-2": {
+    "a": "object"
+  },
+  "8-2": {
+    "chars": "object"
+  },
+  "214-1": {
+    "list3": "list"
+  },
+  "316-0": {
+    "list1": "list"
+  },
+  "120-0": {
+    "diff": "object"
+  },
+  "487-1": {
+    "result": "object"
+  },
+  "34-0": {
+    "students": "dict"
+  },
+  "397-2": {
+    "nbday": "object"
+  },
+  "470-0": {
+    "color": "dict"
+  },
+  "193-0": {
+    "d3": "object"
+  },
+  "187-0": {
+    "x": "object"
+  },
+  "12-2": {
+    "p": "int"
+  },
+  "20-0": {
+    "color3": "list"
+  },
+  "456-2": {
+    "nums": "list"
+  },
+  "276-2": {
+    "nums2": "list"
+  },
+  "493-1": {
+    "new_array": "object"
+  },
+  "244-0": {
+    "x": "list"
+  },
+  "390-0": {
+    "s": "list"
+  },
+  "445-0": {
+    "odd_deque": "object"
+  },
+  "45-1": {
+    "l": "object"
+  },
+  "367-1": {
+    "p": "object"
+  },
+  "323-0": {
+    "s": "list"
+  },
+  "221-1": {
+    "r2": "object"
+  },
+  "115-0": {
+    "array_nums": "object"
+  },
+  "337-0": {
+    "students": "dict"
+  },
+  "235-1": {
+    "new_array": "object"
+  },
+  "463-2": {
+    "result": "list"
+  },
+  "407-0": {
+    "remove_colors": "list"
+  },
+  "361-0": {
+    "mtp": "object"
+  },
+  "439-1": {
+    "words": "list"
+  },
+  "113-1": {
+    "nums1": "int"
+  },
+  "69-1": {
+    "r2": "object"
+  },
+  "277-1": {
+    "num": "list"
+  },
+  "57-0": {
+    "df": "dict"
+  },
+  "139-0": {
+    "nums": "list"
+  },
+  "249-0": {
+    "list1": "list"
+  },
+  "280-0": {
+    "nums": "list"
+  },
+  "382-1": {
+    "text_list": "list"
+  },
+  "310-1": {
+    "my_list": "object"
+  },
+  "81-1": {
+    "marks": "dict"
+  },
+  "76-0": {
+    "df": "dict"
+  },
+  "476-1": {
+    "result": "list"
+  },
+  "268-0": {
+    "nums1": "object"
+  },
+  "426-0": {
+    "str1": "object"
+  },
+  "389-0": {
+    "data": "list"
+  },
+  "340-0": {
+    "array_nums": "list"
+  },
+  "495-0": {
+    "nums": "list"
+  },
+  "304-1": {
+    "list_str": "list"
+  },
+  "418-1": {
+    "nums2": "list"
+  },
+  "371-3": {
+    "styles": "list"
+  },
+  "496-1": {
+    "result": "object"
+  },
+  "288-0": {
+    "df": "object"
+  },
+  "131-0": {
+    "l2": "list"
+  },
+  "205-1": {
+    "r1": "object"
+  },
+  "453-2": {
+    "string_words": "str"
+  },
+  "61-1": {
+    "student_data": "dict"
+  },
+  "475-0": {
+    "pi_val": "object"
+  },
+  "82-0": {
+    "uno_list": "list"
+  },
+  "313-0": {
+    "my_dict": "dict"
+  },
+  "357-1": {
+    "newday1": "object"
+  },
+  "454-0": {
+    "df": "dict"
+  },
+  "348-0": {
+    "my_nums": "list"
+  },
+  "104-0": {
+    "day": "callable"
+  },
+  "274-0": {
+    "nums": "list"
+  },
+  "260-0": {
+    "ctr": "object"
+  },
+  "395-0": {
+    "x": "object"
+  },
+  "440-0": {
+    "items": "list"
+  },
+  "338-2": {
+    "n": "object"
+  },
+  "272-1": {
+    "total_positive_nums": "list"
+  },
+  "28-0": {
+    "nums": "list"
+  },
+  "356-2": {
+    "bases_num": "list"
+  },
+  "160-2": {
+    "str2": "str"
+  },
+  "258-0": {
+    "items": "object"
+  },
+  "46-0": {
+    "nums": "list"
+  },
+  "459-0": {
+    "num": "str"
+  },
+  "173-0": {
+    "l2": "list"
+  },
+  "203-0": {
+    "result": "object"
+  },
+  "231-2": {
+    "nums3": "list"
+  },
+  "411-2": {
+    "df": "object"
+  },
+  "67-0": {
+    "num": "list"
+  },
+  "55-2": {
+    "mums4": "list"
+  },
+  "423-0": {
+    "text1": "object"
+  },
+  "109-0": {
+    "x": "object"
+  },
+  "7-0": {
+    "fib_series": "callable"
+  },
+  "437-0": {
+    "arr1": "object"
+  },
+  "88-2": {
+    "r1": "object"
+  },
+  "190-1": {
+    "n1": "list"
+  },
+  "473-1": {
+    "even_nums": "object"
+  },
+  "409-1": {
+    "nums1": "object"
+  },
+  "84-1": {
+    "count_odd": "int"
+  },
+  "167-0": {
+    "s": "str"
+  },
+  "351-0": {
+    "result": "list"
+  },
+  "146-1": {
+    "y": "object"
+  },
+  "28-1": {
+    "n": "object"
+  },
+  "272-0": {
+    "nums": "list"
+  },
+  "102-0": {
+    "date_range": "object"
+  },
+  "428-0": {
+    "result1": "object"
+  },
+  "334-0": {
+    "df": "object"
+  },
+  "178-0": {
+    "items": "object"
+  },
+  "452-0": {
+    "df": "dict"
+  },
+  "16-0": {
+    "nums": "list"
+  },
+  "387-0": {
+    "nums": "list"
+  },
+  "46-1": {
+    "nums_dq": "str"
+  },
+  "500-0": {
+    "df": "dict"
+  },
+  "78-0": {
+    "result1": "object"
+  },
+  "423-1": {
+    "sample_text": "str"
+  },
+  "55-3": {
+    "mums2": "list"
+  },
+  "203-1": {
+    "a": "int"
+  },
+  "173-1": {
+    "l1": "list"
+  },
+  "120-4": {
+    "l2": "list"
+  },
+  "315-0": {
+    "nlist": "object"
+  },
+  "409-0": {
+    "nums2": "object"
+  },
+  "123-0": {
+    "x": "object"
+  },
+  "473-0": {
+    "nums": "list"
+  },
+  "190-0": {
+    "n2": "list"
+  },
+  "229-0": {
+    "df": "dict"
+  },
+  "73-1": {
+    "new_array1": "object"
+  },
+  "61-0": {
+    "result": "object"
+  },
+  "417-2": {
+    "result": "object"
+  },
+  "205-0": {
+    "r2": "object"
+  },
+  "237-2": {
+    "r1": "object"
+  },
+  "288-1": {
+    "num_arra": "list"
+  },
+  "371-2": {
+    "th_props": "object"
+  },
+  "161-0": {
+    "result": "list"
+  },
+  "482-0": {
+    "deque_colors": "list"
+  },
+  "357-0": {
+    "nbday": "object"
+  },
+  "82-1": {
+    "result": "object"
+  },
+  "475-1": {
+    "num_str": "object"
+  },
+  "431-0": {
+    "items": "object"
+  },
+  "1-0": {
+    "x": "object"
+  },
+  "75-0": {
+    "n_list": "list"
+  },
+  "458-2": {
+    "new_list": "object"
+  },
+  "332-1": {
+    "result": "list"
+  },
+  "230-0": {
+    "nums": "list"
+  },
+  "104-1": {
+    "year": "callable"
+  },
+  "89-0": {
+    "result": "object"
+  },
+  "395-1": {
+    "y": "object"
+  },
+  "224-0": {
+    "d": "dict"
+  },
+  "197-0": {
+    "r1": "object"
+  },
+  "356-1": {
+    "result": "object"
+  },
+  "160-1": {
+    "unwanted_chars": "list"
+  },
+  "312-0": {
+    "array1": "int"
+  },
+  "78-2": {
+    "result": "list"
+  },
+  "124-0": {
+    "arra_data": "dict"
+  },
+  "306-0": {
+    "nums": "object"
+  },
+  "428-2": {
+    "result2": "object"
+  },
+  "272-2": {
+    "total_negative_nums": "list"
+  },
+  "183-0": {
+    "x": "int"
+  },
+  "460-0": {
+    "dateset2": "object"
+  },
+  "24-0": {
+    "df": "object"
+  },
+  "84-2": {
+    "count_even": "int"
+  },
+  "155-1": {
+    "N": "int"
+  },
+  "41-1": {
+    "series1": "object"
+  },
+  "88-1": {
+    "r2": "object"
+  },
+  "473-2": {
+    "odd_nums": "object"
+  },
+  "488-0": {
+    "str1": "list"
+  },
+  "397-4": {
+    "obday": "object"
+  },
+  "455-0": {
+    "df": "object"
+  },
+  "380-0": {
+    "items": "list"
+  },
+  "55-1": {
+    "mums3": "list"
+  },
+  "275-0": {
+    "x": "object"
+  },
+  "105-0": {
+    "str1": "str"
+  },
+  "231-1": {
+    "nums2": "list"
+  },
+  "333-0": {
+    "colors": "list"
+  },
+  "117-1": {
+    "df": "object"
+  },
+  "321-1": {
+    "list2": "object"
+  },
+  "79-1": {
+    "d": "object"
+  },
+  "223-0": {
+    "nums": "object"
+  },
+  "153-0": {
+    "list_color": "list"
+  },
+  "479-0": {
+    "l1": "object"
+  },
+  "357-2": {
+    "newday": "object"
+  },
+  "365-0": {
+    "df": "object"
+  },
+  "403-0": {
+    "class_rollno": "dict"
+  },
+  "386-1": {
+    "result": "object"
+  },
+  "284-0": {
+    "nums1": "list"
+  },
+  "17-1": {
+    "result": "list"
+  },
+  "453-1": {
+    "word_freq": "list"
+  },
+  "179-1": {
+    "x": "object"
+  },
+  "288-3": {
+    "num_dict": "object"
+  },
+  "6-0": {
+    "str_list1": "list"
+  },
+  "485-0": {
+    "str1": "str"
+  },
+  "362-2": {
+    "y": "object"
+  },
+  "350-0": {
+    "array_num": "list"
+  },
+  "216-0": {
+    "user_input": "str"
+  },
+  "314-1": {
+    "result": "object"
+  },
+  "104-3": {
+    "now": "object"
+  },
+  "458-0": {
+    "my_list": "list"
+  },
+  "422-0": {
+    "ytp": "object"
+  },
+  "22-1": {
+    "nums1": "int"
+  },
+  "466-1": {
+    "nums": "list"
+  },
+  "447-0": {
+    "result": "object"
+  },
+  "403-1": {
+    "classes": "list"
+  },
+  "321-0": {
+    "list1": "list"
+  },
+  "429-0": {
+    "nums": "list"
+  },
+  "335-0": {
+    "os_profile": "list"
+  },
+  "237-1": {
+    "r2": "object"
+  },
+  "288-2": {
+    "num_ser": "object"
+  },
+  "371-1": {
+    "td_props": "object"
+  },
+  "417-1": {
+    "num_series": "object"
+  },
+  "179-0": {
+    "new_array": "object"
+  },
+  "453-0": {
+    "word_list": "list"
+  },
+  "386-0": {
+    "df_agg": "dict"
+  },
+  "284-1": {
+    "nums2": "list"
+  },
+  "408-0": {
+    "new_nums": "object"
+  },
+  "166-1": {
+    "df": "object"
+  },
+  "6-1": {
+    "l": "object"
+  },
+  "472-0": {
+    "func": "callable"
+  },
+  "191-0": {
+    "df": "dict"
+  },
+  "158-0": {
+    "n": "list"
+  },
+  "466-0": {
+    "result": "list"
+  },
+  "22-0": {
+    "nums2": "int"
+  },
+  "458-1": {
+    "n": "int"
+  },
+  "344-1": {
+    "max_length": "int"
+  },
+  "104-2": {
+    "t": "callable"
+  },
+  "58-0": {
+    "nlist": "object"
+  },
+  "78-3": {
+    "df": "object"
+  },
+  "312-1": {
+    "array2": "int"
+  },
+  "160-0": {
+    "str1": "str"
+  },
+  "483-0": {
+    "list1": "list"
+  },
+  "356-0": {
+    "index": "list"
+  },
+  "430-0": {
+    "colors": "list"
+  },
+  "24-1": {
+    "result": "object"
+  },
+  "460-1": {
+    "dateset1": "object"
+  },
+  "183-1": {
+    "new_array": "object"
+  },
+  "338-0": {
+    "v": "int"
+  },
+  "424-0": {
+    "x": "list"
+  },
+  "342-0": {
+    "result": "object"
+  },
+  "240-1": {
+    "result": "list"
+  },
+  "497-0": {
+    "d": "dict"
+  },
+  "296-0": {
+    "df": "dict"
+  },
+  "88-0": {
+    "x": "int"
+  },
+  "41-0": {
+    "result": "object"
+  },
+  "155-0": {
+    "nums": "list"
+  },
+  "261-1": {
+    "colors": "list"
+  },
+  "231-0": {
+    "nums1": "list"
+  },
+  "105-1": {
+    "str2": "str"
+  },
+  "377-0": {
+    "df2": "object"
+  },
+  "173-2": {
+    "l3": "list"
+  },
+  "188-0": {
+    "x": "object"
+  }
+}

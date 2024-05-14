@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/59340920/attributeerror-module-collection-views-has-no-attribute-create-word
+path('accounts/create_word/', views.create_word, name='registration_create_word'),

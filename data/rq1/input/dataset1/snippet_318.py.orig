@@ -1,0 +1,9 @@
+# Extracted from https://stackoverflow.com/questions/1059559/split-strings-into-words-with-multiple-word-boundary-delimiters
+join = lambda x: sum(x,[])  # a.k.a. flatten1([[1],[2,3],[4]]) -> [1,2,3,4]
+# ...alternatively...
+join = lambda lists: [x for l in lists for x in l]
+
+fragments = [text]
+for token in tokens:
+    fragments = join(f.split(token) for f in fragments)
+

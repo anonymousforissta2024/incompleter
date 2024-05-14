@@ -1,0 +1,29 @@
+# Extracted from https://stackoverflow.com/questions/9252543/what-can-i-do-about-importerror-cannot-import-name-x-or-attributeerror
+from test.b import b2
+
+def a1():
+    print('a1')
+    b2()
+
+from test.a import a1
+
+def b1():
+    print('b1')
+    a1()
+
+def b2():
+    print('b2')
+
+if __name__ == '__main__':
+    b1()
+
+def a1():
+    print('a1')
+    b2()
+
+from test.b import b2
+
+b1
+a1
+b2
+

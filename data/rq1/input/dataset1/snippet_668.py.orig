@@ -1,0 +1,7 @@
+# Extracted from https://stackoverflow.com/questions/24617397/how-to-print-to-console-in-pytest
+import warnings
+
+text = "asdf" 
+
+warnings.warn(UserWarning("{}".format(text)))
+

@@ -1,0 +1,18 @@
+# Extracted from https://stackoverflow.com/questions/423379/using-global-variables-in-a-function
+def five(enterAnumber,sumation):
+    global helper
+    helper  = enterAnumber + sumation
+
+def isTheNumber():
+    return helper
+
+import TestPy
+
+def main():
+    atest  = TestPy
+    atest.five(5,8)
+    print(atest.isTheNumber())
+
+if __name__ == '__main__':
+    main()
+

@@ -1,0 +1,13 @@
+#Source: https://stackoverflow.com/questions/74899727/attributeerror-webdriver-object-has-no-attribute-find-element-by-id
+driver = webdriver.Firefox()
+driver.get('https://mahmoud-magdy.com/register')
+driver.find_element_by_id('first_name').send_keys(monster)
+driver.find_element_by_id('last_name').send_keys(monster)
+driver.find_element_by_name('phone').send_keys(phone)
+driver.find_element_by_name('father_phone').send_keys(father_phone)
+driver.find_element_by_name('email').send_keys(email)
+driver.find_element_by_name('password').send_keys(password)
+driver.find_element_by_name('password_confirmation').send_keys(password_confirmation)
+driver.find_element_by_css_selector('button[type="submit"]').click()
+print(phone)
+driver.quit()

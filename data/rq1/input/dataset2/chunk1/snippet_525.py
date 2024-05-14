@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/66910993/typeerror-argument-1-must-be-a-string-or-unicode-object-got-tuple-instead
+db.addRecord("asdasd", "asfasf", "asfasfa", "afasfwqe", "afqwrqwr", "dferqwrqw", "afasf", "afasfasf")

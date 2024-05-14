@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/47204175/lane-departure-warning-system-for-autonomous-driving-typeerror-expected-non-em
+left_fit, right_fit = full_search(binary_sub, visualization=visualization)

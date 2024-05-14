@@ -1,0 +1,45 @@
+# Extracted from https://stackoverflow.com/questions/744373/what-happens-when-using-mutual-or-circular-cyclic-imports
+from b import B
+
+class A:
+    @staticmethod
+    def save_result(result):
+        print('save the result')
+
+    @staticmethod
+    def do_something_a_ish(param):
+        A.save_result(A.use_param_like_a_would(param))
+    
+    @staticmethod
+    def do_something_related_to_b(param):
+        B.do_something_b_ish(param)
+
+from a import A
+
+class B:
+    @staticmethod
+    def do_something_b_ish(param):
+        A.save_result(B.use_param_like_b_would(param))
+
+def save_result(result):
+    print('save the result')
+
+from b import B
+from c import save_result
+
+class A:
+    @staticmethod
+    def do_something_a_ish(param):
+        save_result(A.use_param_like_a_would(param))
+    
+    @staticmethod
+    def do_something_related_to_b(param):
+        B.do_something_b_ish(param)
+
+from c import save_result
+
+class B:
+    @staticmethod
+    def do_something_b_ish(param):
+        save_result(B.use_param_like_b_would(param))
+

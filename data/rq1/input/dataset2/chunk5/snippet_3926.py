@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/73068415/python-lambda-join-function-to-return-semi-colon-list-of-unique-values-giving-at
+test = out.groupby('DocSetID', as_index=True).agg(lambda x: '; '.join(el for el in x if el !='').set(x))

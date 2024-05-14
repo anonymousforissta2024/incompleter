@@ -1,0 +1,5 @@
+# Extracted from https://stackoverflow.com/questions/16096627/selecting-a-row-of-pandas-series-dataframe-by-integer-index
+df[2:3]
+
+df[6:20:3]
+

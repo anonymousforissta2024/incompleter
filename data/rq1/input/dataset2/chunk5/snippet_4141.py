@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/56696426/attribute-error-with-findall-function-for-beautiful-soup
+"ResultSet object has no attribute '%s'. You're probably treating a list of items like a single item. Did you call find_all() when you meant to call find()?" % key

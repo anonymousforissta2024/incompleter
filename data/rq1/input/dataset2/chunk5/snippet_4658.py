@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/55765498/attributeerror-can-only-use-dt-accessor-with-datetimelike-values-in-0yrs-0mon
+train['AVERAGE_ACCT_AGE']=pd.to_datetime(train['AVERAGE.ACCT.AGE'], format='%Y%m',errors='ignore',infer_datetime_format=True)

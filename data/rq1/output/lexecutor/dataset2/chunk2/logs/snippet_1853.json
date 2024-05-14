@@ -1,0 +1,10 @@
+{
+  "exec_status": 0,
+  "cov_summary": {
+    "covered_lines": 19,
+    "num_statements": 68,
+    "num_branches": 12,
+    "num_partial_branches": 0,
+    "covered_branches": 0
+  }
+}

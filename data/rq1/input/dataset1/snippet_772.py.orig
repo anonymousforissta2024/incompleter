@@ -1,0 +1,26 @@
+# Extracted from https://stackoverflow.com/questions/2461702/why-is-ioc-di-not-common-in-python
+# settings.py
+CACHES = {
+    'default': {
+        'BACKEND': 'django_redis.cache.RedisCache',
+        'LOCATION': REDIS_URL + '/1',
+    },
+    'local': {
+        'BACKEND': 'django.core.cache.backends.locmem.LocMemCache',
+        'LOCATION': 'snowflake',
+    }
+}
+
+class FooView(APIView):
+    # The "injected" dependencies:
+    permission_classes = (IsAuthenticated, )
+    throttle_classes = (ScopedRateThrottle, )
+    parser_classes = (parsers.FormParser, parsers.JSONParser, parsers.MultiPartParser)
+    renderer_classes = (renderers.JSONRenderer,)
+
+    def get(self, request, *args, **kwargs):
+        pass
+
+    def post(self, request, *args, **kwargs):
+        pass
+

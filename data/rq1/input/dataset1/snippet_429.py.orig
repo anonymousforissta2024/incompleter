@@ -1,0 +1,18 @@
+# Extracted from https://stackoverflow.com/questions/773/how-do-i-use-itertools-groupby
+for x in list(groupby(range(10))):
+    print(list(x[1]))
+
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[9]
+
+def groupbylist(*args, **kwargs):
+    return [(k, list(g)) for k, g in groupby(*args, **kwargs)]
+

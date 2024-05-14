@@ -1,0 +1,6 @@
+# Extracted from https://stackoverflow.com/questions/4383571/importing-files-from-different-folder
+sys.path.append('c:\\tools\\mydir')
+sys.path.append('..\\mytools')
+sys.path.append('c:/tools/mydir')
+sys.path.append('../mytools')
+

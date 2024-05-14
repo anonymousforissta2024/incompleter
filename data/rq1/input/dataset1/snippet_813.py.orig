@@ -1,0 +1,5 @@
+# Extracted from https://stackoverflow.com/questions/1966207/convert-numpy-array-to-python-list
+c.ravel()
+# or
+c.ravel().tolist()
+

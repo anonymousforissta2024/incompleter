@@ -1,0 +1,6 @@
+# Extracted from https://stackoverflow.com/questions/10840533/most-pythonic-way-to-delete-a-file-which-may-not-exist
+try:
+    os.remove(filename)
+except FileNotFoundError:
+    pass
+

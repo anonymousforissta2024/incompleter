@@ -1,0 +1,6 @@
+# Extracted from https://stackoverflow.com/questions/1303243/how-to-find-out-if-a-python-object-is-a-string
+def isStr(o):
+    return repr(o)[-1] in '\'"'
+
+repr(o)[-1:].replace('"', "'") == "'"
+

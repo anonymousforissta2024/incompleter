@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/50969231/python-type-error-dtypeu51
+debit_creditquestionlist = ('Why is there a ' + df_credit[debit_credit] + ' in ' + df_credit[entity_name] + ' relating to ' + df_credit[account_name] +  ' of ' + df_credit[amount] + ' at ')

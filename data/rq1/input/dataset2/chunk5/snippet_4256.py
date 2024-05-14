@@ -1,0 +1,12 @@
+#Source: https://stackoverflow.com/questions/54962167/typeerror-float-argument-must-be-a-string-or-a-number-not-polygon-linestr
+root = tk.Tk()
+filename=filedialog.askopenfilename()
+shape=gpd.read_file(filename)
+root.wm_title("GIS")
+f = Figure(figsize = (5,5), dpi = 100)
+a = f.add_subplot(111)
+a.plot(shape)
+canvas = FigureCanvasTkAgg(f,master = root)
+canvas.draw()
+canvas.get_tk_widget().pack(side = tk.TOP, fill = tk.BOTH, expand = True)
+root.mainloop()

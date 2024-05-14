@@ -1,0 +1,1 @@
+print('Value of x is "{}"'.format(x))

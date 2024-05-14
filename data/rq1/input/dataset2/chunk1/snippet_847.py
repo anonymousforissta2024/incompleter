@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/52428472/typeerror-unhashable-type-list-when-calling-iloc
+img_name = os.path.join(self.root_dir, self.landmarks_frame.iloc([index, 0]))  # At this point 'index' is 0

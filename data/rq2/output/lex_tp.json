@@ -1,0 +1,908 @@
+{
+    "442-2": {
+        "root": "object"
+    },
+    "460-0": {
+        "dateset2": "object"
+    },
+    "35-0": {
+        "result": "object"
+    },
+    "18-1": {
+        "k": "int"
+    },
+    "288-1": {
+        "num_arra": "list"
+    },
+    "323-0": {
+        "s": "str"
+    },
+    "19-0": {
+        "y": "object"
+    },
+    "477-1": {
+        "result": "dict"
+    },
+    "231-0": {
+        "nums1": "list"
+    },
+    "362-0": {
+        "a": "object"
+    },
+    "22-1": {
+        "nums1": "object"
+    },
+    "335-0": {
+        "os_profile": "object"
+    },
+    "159-0": {
+        "nums": "list"
+    },
+    "78-0": {
+        "result1": "str"
+    },
+    "272-2": {
+        "total_negative_nums": "list"
+    },
+    "342-0": {
+        "result": "object"
+    },
+    "483-0": {
+        "list1": "list"
+    },
+    "250-0": {
+        "nums": "list"
+    },
+    "315-0": {
+        "nlist": "list"
+    },
+    "495-0": {
+        "nums": "list"
+    },
+    "303-0": {
+        "x": "object"
+    },
+    "81-0": {
+        "result": "dict"
+    },
+    "142-1": {
+        "students": "list"
+    },
+    "354-0": {
+        "df": "object"
+    },
+    "143-0": {
+        "x": "object"
+    },
+    "15-0": {
+        "date_of_birth": "str"
+    },
+    "114-0": {
+        "nums": "list"
+    },
+    "401-0": {
+        "l": "object"
+    },
+    "302-1": {
+        "nums1": "list"
+    },
+    "377-3": {
+        "df": "object"
+    },
+    "397-0": {
+        "thbday": "object"
+    },
+    "314-1": {
+        "result": "object"
+    },
+    "197-1": {
+        "x": "object"
+    },
+    "209-2": {
+        "df": "object"
+    },
+    "206-1": {
+        "y": "int"
+    },
+    "79-1": {
+        "d": "object"
+    },
+    "338-0": {
+        "v": "object"
+    },
+    "78-1": {
+        "n": "int"
+    },
+    "342-1": {
+        "arra": "object"
+    },
+    "463-2": {
+        "result": "list"
+    },
+    "179-1": {
+        "x": "object"
+    },
+    "103-0": {
+        "nums": "list"
+    },
+    "379-0": {
+        "nums1": "list"
+    },
+    "495-1": {
+        "chars": "list"
+    },
+    "396-0": {
+        "df": "object"
+    },
+    "288-4": {
+        "char_list": "list"
+    },
+    "284-0": {
+        "nums1": "list"
+    },
+    "81-1": {
+        "marks": "dict"
+    },
+    "457-0": {
+        "str1": "str"
+    },
+    "1-0": {
+        "x": "object"
+    },
+    "15-1": {
+        "idx": "tuple"
+    },
+    "139-0": {
+        "nums": "list"
+    },
+    "114-1": {
+        "new_nums": "object"
+    },
+    "42-1": {
+        "new_array1": "object"
+    },
+    "397-1": {
+        "dt": "object"
+    },
+    "251-0": {
+        "result": "object"
+    },
+    "314-0": {
+        "nums": "list"
+    },
+    "482-0": {
+        "deque_colors": "list"
+    },
+    "206-0": {
+        "x": "int"
+    },
+    "343-0": {
+        "students": "list"
+    },
+    "120-3": {
+        "l1": "list"
+    },
+    "158-0": {
+        "n": "object"
+    },
+    "437-1": {
+        "num": "int"
+    },
+    "59-0": {
+        "x": "object"
+    },
+    "363-0": {
+        "x": "object"
+    },
+    "226-0": {
+        "str1": "str"
+    },
+    "476-1": {
+        "result": "list"
+    },
+    "375-0": {
+        "arra_data": "object"
+    },
+    "230-0": {
+        "nums": "list"
+    },
+    "357-2": {
+        "newday": "object"
+    },
+    "322-0": {
+        "num1": "str"
+    },
+    "267-0": {
+        "x": "object"
+    },
+    "377-6": {
+        "sales_tuples": "list"
+    },
+    "34-0": {
+        "students": "dict"
+    },
+    "231-1": {
+        "nums2": "list"
+    },
+    "461-0": {
+        "x": "int"
+    },
+    "362-1": {
+        "x": "object"
+    },
+    "123-0": {
+        "x": "object"
+    },
+    "26-3": {
+        "nums_y": "dict"
+    },
+    "485-0": {
+        "str1": "str"
+    },
+    "256-0": {
+        "d": "dict"
+    },
+    "313-0": {
+        "my_dict": "object"
+    },
+    "493-0": {
+        "x": "object"
+    },
+    "113-1": {
+        "nums1": "object"
+    },
+    "45-1": {
+        "l": "int"
+    },
+    "87-0": {
+        "nums": "list"
+    },
+    "6-0": {
+        "str_list1": "list"
+    },
+    "12-1": {
+        "nums": "list"
+    },
+    "8-2": {
+        "chars": "str"
+    },
+    "283-0": {
+        "nums": "object"
+    },
+    "329-0": {
+        "student": "dict"
+    },
+    "112-0": {
+        "student": "list"
+    },
+    "44-0": {
+        "nums": "list"
+    },
+    "371-3": {
+        "styles": "dict"
+    },
+    "104-0": {
+        "day": "callable"
+    },
+    "411-0": {
+        "sales_tuples": "list"
+    },
+    "368-0": {
+        "X": "object"
+    },
+    "387-0": {
+        "nums": "list"
+    },
+    "446-0": {
+        "array_nums": "list"
+    },
+    "295-0": {
+        "chars": "str"
+    },
+    "348-0": {
+        "my_nums": "list"
+    },
+    "72-0": {
+        "arra_data": "object"
+    },
+    "298-1": {
+        "b": "object"
+    },
+    "277-1": {
+        "num": "list"
+    },
+    "466-0": {
+        "result": "list"
+    },
+    "365-1": {
+        "sales_index": "int"
+    },
+    "173-0": {
+        "l2": "list"
+    },
+    "309-0": {
+        "items": "object"
+    },
+    "470-0": {
+        "color": "object"
+    },
+    "427-0": {
+        "s": "object"
+    },
+    "428-3": {
+        "q": "object"
+    },
+    "260-0": {
+        "ctr": "int"
+    },
+    "149-0": {
+        "X": "object"
+    },
+    "372-0": {
+        "np_array": "object"
+    },
+    "308-1": {
+        "input_string": "str"
+    },
+    "24-1": {
+        "result": "object"
+    },
+    "299-0": {
+        "grouped": "object"
+    },
+    "333-0": {
+        "colors": "list"
+    },
+    "104-4": {
+        "month": "callable"
+    },
+    "298-0": {
+        "a": "object"
+    },
+    "365-0": {
+        "df": "object"
+    },
+    "466-1": {
+        "nums": "list"
+    },
+    "220-0": {
+        "a": "object"
+    },
+    "49-0": {
+        "nums1": "list"
+    },
+    "214-2": {
+        "list2": "list"
+    },
+    "324-0": {
+        "arra_data": "object"
+    },
+    "132-1": {
+        "df": "object"
+    },
+    "426-0": {
+        "str1": "str"
+    },
+    "453-2": {
+        "string_words": "str"
+    },
+    "471-0": {
+        "df2": "object"
+    },
+    "308-0": {
+        "alphabet": "str"
+    },
+    "221-1": {
+        "r2": "object"
+    },
+    "299-1": {
+        "student_data": "object"
+    },
+    "73-0": {
+        "x": "object"
+    },
+    "349-0": {
+        "class_students": "list"
+    },
+    "294-0": {
+        "x": "object"
+    },
+    "344-1": {
+        "max_length": "int"
+    },
+    "26-2": {
+        "nums_copy": "dict"
+    },
+    "386-0": {
+        "df_agg": "dict"
+    },
+    "259-2": {
+        "data2": "object"
+    },
+    "473-2": {
+        "odd_nums": "list"
+    },
+    "390-0": {
+        "s": "str"
+    },
+    "113-0": {
+        "new_array": "object"
+    },
+    "406-0": {
+        "x": "str"
+    },
+    "88-2": {
+        "r1": "object"
+    },
+    "6-1": {
+        "l": "int"
+    },
+    "9-2": {
+        "num": "int"
+    },
+    "12-0": {
+        "new_nums": "object"
+    },
+    "216-0": {
+        "user_input": "str"
+    },
+    "450-1": {
+        "array2": "object"
+    },
+    "86-0": {
+        "result": "dict"
+    },
+    "304-0": {
+        "result": "tuple"
+    },
+    "371-2": {
+        "th_props": "list"
+    },
+    "492-0": {
+        "df1": "dict"
+    },
+    "104-1": {
+        "year": "callable"
+    },
+    "312-0": {
+        "array1": "list"
+    },
+    "28-0": {
+        "nums": "list"
+    },
+    "345-0": {
+        "x": "object"
+    },
+    "90-0": {
+        "arra_data": "object"
+    },
+    "347-1": {
+        "s2": "object"
+    },
+    "173-2": {
+        "l3": "list"
+    },
+    "365-3": {
+        "sales_arrays": "list"
+    },
+    "310-1": {
+        "my_list": "list"
+    },
+    "106-0": {
+        "str1": "object"
+    },
+    "239-0": {
+        "n_list": "list"
+    },
+    "46-0": {
+        "nums": "object"
+    },
+    "428-1": {
+        "p": "object"
+    },
+    "214-1": {
+        "list3": "list"
+    },
+    "350-0": {
+        "array_num": "list"
+    },
+    "146-1": {
+        "y": "object"
+    },
+    "85-0": {
+        "payload": "dict"
+    },
+    "237-2": {
+        "r1": "object"
+    },
+    "412-1": {
+        "df": "object"
+    },
+    "221-2": {
+        "r1": "object"
+    },
+    "203-0": {
+        "result": "object"
+    },
+    "274-0": {
+        "nums": "list"
+    },
+    "331-0": {
+        "df": "object"
+    },
+    "223-0": {
+        "nums": "object"
+    },
+    "366-0": {
+        "df": "object"
+    },
+    "465-1": {
+        "student": "list"
+    },
+    "493-2": {
+        "y": "object"
+    },
+    "166-1": {
+        "df": "object"
+    },
+    "370-0": {
+        "x": "object"
+    },
+    "131-1": {
+        "l1": "list"
+    },
+    "327-0": {
+        "L": "list"
+    },
+    "89-0": {
+        "result": "object"
+    },
+    "425-0": {
+        "exam_st_date": "object"
+    },
+    "219-0": {
+        "colors_list": "list"
+    },
+    "234-1": {
+        "new_data": "object"
+    },
+    "188-0": {
+        "x": "object"
+    },
+    "408-1": {
+        "nums": "list"
+    },
+    "27-0": {
+        "new_s": "object"
+    },
+    "411-2": {
+        "df": "object"
+    },
+    "104-2": {
+        "t": "callable"
+    },
+    "127-0": {
+        "df": "object"
+    },
+    "432-0": {
+        "a": "object"
+    },
+    "386-2": {
+        "df": "object"
+    },
+    "26-0": {
+        "nums_x": "dict"
+    },
+    "409-1": {
+        "nums1": "object"
+    },
+    "166-0": {
+        "dict_data_list": "list"
+    },
+    "473-0": {
+        "nums": "list"
+    },
+    "9-0": {
+        "result": "object"
+    },
+    "88-0": {
+        "x": "object"
+    },
+    "424-0": {
+        "x": "object"
+    },
+    "263-0": {
+        "result": "object"
+    },
+    "69-2": {
+        "r1": "object"
+    },
+    "234-0": {
+        "x": "object"
+    },
+    "408-0": {
+        "new_nums": "list"
+    },
+    "171-1": {
+        "color1": "list"
+    },
+    "27-1": {
+        "n": "int"
+    },
+    "104-3": {
+        "now": "object"
+    },
+    "70-1": {
+        "result": "str"
+    },
+    "347-0": {
+        "df": "object"
+    },
+    "385-1": {
+        "y": "object"
+    },
+    "365-2": {
+        "sales_tuples": "list"
+    },
+    "239-1": {
+        "result": "list"
+    },
+    "373-2": {
+        "r2": "object"
+    },
+    "306-0": {
+        "nums": "int"
+    },
+    "243-0": {
+        "x": "object"
+    },
+    "428-0": {
+        "result1": "object"
+    },
+    "214-0": {
+        "list1": "list"
+    },
+    "146-0": {
+        "x": "object"
+    },
+    "215-1": {
+        "nums": "list"
+    },
+    "111-0": {
+        "users": "list"
+    },
+    "471-2": {
+        "df1": "object"
+    },
+    "487-1": {
+        "result": "list"
+    },
+    "500-0": {
+        "df": "object"
+    },
+    "296-0": {
+        "df": "object"
+    },
+    "272-0": {
+        "nums": "list"
+    },
+    "78-2": {
+        "result": "list"
+    },
+    "360-0": {
+        "a2": "object"
+    },
+    "463-1": {
+        "nums2": "list"
+    },
+    "399-0": {
+        "d": "object"
+    },
+    "233-0": {
+        "color": "list"
+    },
+    "458-0": {
+        "my_list": "list"
+    },
+    "321-0": {
+        "list1": "list"
+    },
+    "423-0": {
+        "text1": "str"
+    },
+    "15-2": {
+        "df": "object"
+    },
+    "161-0": {
+        "result": "list"
+    },
+    "42-2": {
+        "p": "object"
+    },
+    "177-0": {
+        "color2": "object"
+    },
+    "417-2": {
+        "result": "list"
+    },
+    "273-1": {
+        "df": "object"
+    },
+    "435-0": {
+        "a": "object"
+    },
+    "209-0": {
+        "df_index": "object"
+    },
+    "341-1": {
+        "elements": "set"
+    },
+    "229-0": {
+        "df": "object"
+    },
+    "415-0": {
+        "x": "object"
+    },
+    "100-0": {
+        "sample_text": "object"
+    },
+    "395-0": {
+        "x": "object"
+    },
+    "403-0": {
+        "class_rollno": "object"
+    },
+    "245-1": {
+        "n": "int"
+    },
+    "82-1": {
+        "result": "list"
+    },
+    "288-3": {
+        "num_dict": "list"
+    },
+    "17-0": {
+        "nums": "list"
+    },
+    "3-1": {
+        "new_num": "list"
+    },
+    "140-1": {
+        "y": "object"
+    },
+    "41-1": {
+        "series1": "object"
+    },
+    "117-1": {
+        "df": "object"
+    },
+    "394-1": {
+        "bin_nums": "list"
+    },
+    "497-0": {
+        "d": "dict"
+    },
+    "120-4": {
+        "l2": "list"
+    },
+    "362-2": {
+        "y": "object"
+    },
+    "340-0": {
+        "array_nums": "list"
+    },
+    "156-1": {
+        "L": "list"
+    },
+    "439-0": {
+        "items": "list"
+    },
+    "438-0": {
+        "x": "object"
+    },
+    "56-1": {
+        "weekdays": "list"
+    },
+    "395-1": {
+        "y": "object"
+    },
+    "183-0": {
+        "x": "object"
+    },
+    "403-1": {
+        "classes": "list"
+    },
+    "137-4": {
+        "df": "object"
+    },
+    "268-1": {
+        "nums2": "list"
+    },
+    "288-2": {
+        "num_ser": "object"
+    },
+    "357-0": {
+        "nbday": "object"
+    },
+    "3-0": {
+        "num": "int"
+    },
+    "356-1": {
+        "result": "list"
+    },
+    "16-0": {
+        "nums": "list"
+    },
+    "269-0": {
+        "array_2D": "object"
+    },
+    "41-0": {
+        "result": "str"
+    },
+    "117-0": {
+        "result": "object"
+    },
+    "317-1": {
+        "d2": "dict"
+    },
+    "318-2": {
+        "cols": "list"
+    },
+    "156-0": {
+        "x": "int"
+    },
+    "439-1": {
+        "words": "list"
+    },
+    "78-3": {
+        "df": "object"
+    },
+    "338-2": {
+        "n": "object"
+    },
+    "20-0": {
+        "color3": "list"
+    },
+    "360-1": {
+        "a_bytes": "object"
+    },
+    "160-0": {
+        "str1": "str"
+    },
+    "379-2": {
+        "nums2": "list"
+    },
+    "137-0": {
+        "sales_index": "int"
+    },
+    "61-0": {
+        "result": "dict"
+    },
+    "265-0": {
+        "x": "list"
+    },
+    "459-0": {
+        "num": "object"
+    },
+    "397-3": {
+        "tbday": "object"
+    },
+    "247-2": {
+        "bs": "object"
+    },
+    "177-1": {
+        "color1": "tuple"
+    },
+    "361-0": {
+        "mtp": "object"
+    },
+    "314-2": {
+        "nums_arr": "list"
+    },
+    "120-1": {
+        "c1": "object"
+    },
+    "209-1": {
+        "index": "list"
+    }
+}

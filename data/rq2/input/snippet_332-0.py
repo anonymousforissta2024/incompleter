@@ -1,0 +1,12 @@
+def max_min_list_tuples(nums):
+    zip(*nums)
+    result1 = map(max, zip(*nums))
+    result2 = map(min, zip(*nums))
+    return (list(result1), list(result2))
+print('Original list:')
+print(nums)
+result = max_min_list_tuples(nums)
+print('\nMaximum value  for each tuple position in the said list of tuples:')
+print(result[0])
+print('\nMinimum value  for each tuple position in the said list of tuples:')
+print(result[1])

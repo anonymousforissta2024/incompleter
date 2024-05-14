@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/76073834/matplotlib-specgram-throwing-invalid-shape-typeerror
+spectrum, freqs, t, im = plt.specgram(np.asarray(Moves[MoveNum][:,0]), 1024, 300, noverlap=900)

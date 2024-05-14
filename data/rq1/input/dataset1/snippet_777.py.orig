@@ -1,0 +1,10 @@
+# Extracted from https://stackoverflow.com/questions/2827623/how-can-i-create-an-object-and-add-attributes-to-it
+obj.a = type('Test', (object,), {})  
+obj.a.b = 'fun'  
+
+obj.b = lambda:None
+
+class Test:
+  pass
+obj.c = Test()
+

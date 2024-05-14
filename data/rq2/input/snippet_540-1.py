@@ -1,0 +1,5 @@
+print('Original arrays:')
+print(array_nums)
+result = sorted(array_nums, key=lambda i: 0 if i == 0 else -1 / i)
+print('\nRearrange positive and negative numbers of the said array:')
+print(result)

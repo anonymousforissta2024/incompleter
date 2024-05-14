@@ -1,0 +1,11 @@
+# Extracted from https://stackoverflow.com/questions/10458437/what-is-the-difference-between-dict-items-and-dict-iteritems-in-python2
+dict = {i: i * 2 for i in xrange(10000000)}  
+# Slow and memory hungry.
+for key, value in dict.items():
+    print(key,":",value)
+
+dict = {i: i * 2 for i in xrange(10000000)}  
+# More memory efficient.
+for key, value in dict.iteritems():
+    print(key,":",value)
+

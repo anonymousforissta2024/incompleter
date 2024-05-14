@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/57540372/typeerror-unhashable-type-numpy-ndarray-when-merging-pandas-datframes-from-b
+merged_data = pd.merge(commit_query_dataframe, language_query_dataframe, on='repo_name')

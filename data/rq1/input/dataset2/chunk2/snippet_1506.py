@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/62359757/typeerror-frame-apply-got-an-unexpected-keyword-argument-broadcast
+dm.loc[:50, 'address_components'] = dm.loc[:50, ['description', 'city']].apply(lambda row: get_address(row[0], row[1]), axis=1)

@@ -1,0 +1,3 @@
+# Extracted from https://stackoverflow.com/questions/311627/how-to-print-a-date-in-a-regular-format
+mylist.append(str(today))
+

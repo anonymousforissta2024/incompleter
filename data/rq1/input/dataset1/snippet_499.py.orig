@@ -1,0 +1,5 @@
+# Extracted from https://stackoverflow.com/questions/2150739/iso-time-iso-8601-in-python
+tz = str.format('{0:+06.2f}', float(time.altzone) / 3600)
+
+tz = str.format('{0:+06.2f}', -float(time.altzone) / 3600)
+

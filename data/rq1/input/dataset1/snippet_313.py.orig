@@ -1,0 +1,3 @@
+# Extracted from https://stackoverflow.com/questions/11350770/filter-pandas-dataframe-by-substring-criteria
+df.query('A.str.contains("hello").values')
+

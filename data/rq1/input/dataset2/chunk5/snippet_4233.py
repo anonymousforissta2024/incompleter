@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/53512534/typeerror-object-of-type-set-is-not-json-serializable
+qty2 = self.client.Position.Position_get(json.dumps({'symbol': 'XBTUSD'}),json.dumps({'currentQty'})).result()

@@ -1,0 +1,8 @@
+# Extracted from https://stackoverflow.com/questions/306400/how-can-i-randomly-select-an-item-from-a-list
+foo = ['a', 'b', 'c', 'd', 'e']
+number_of_samples = 1
+
+random_items = random.sample(population=foo, k=number_of_samples)
+
+random_items = random.choices(population=foo, k=number_of_samples)
+

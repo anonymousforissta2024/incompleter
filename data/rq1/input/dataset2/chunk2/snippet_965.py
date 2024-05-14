@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/62209560/getting-attribute-error-series-object-has-no-attribute-explode
+df_main1 = (df_main1.set_index(['rule_id', 'applied_sql_function1', 'input_condition', 'input_value', 'and_or_not_oprtor', 'output_condition', 'priority_order']).apply(lambda x: x.astype(str).str.split(',').explode()).reset_index())

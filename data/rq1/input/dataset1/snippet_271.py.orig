@@ -1,0 +1,10 @@
+# Extracted from https://stackoverflow.com/questions/682504/what-is-a-clean-pythonic-way-to-implement-multiple-constructors
+class Gouda(Cheese):
+    def __init__(self):
+        super(Gouda).__init__(num_holes=10)
+
+
+class Parmesan(Cheese):
+    def __init__(self):
+        super(Parmesan).__init__(num_holes=15) 
+

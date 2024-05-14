@@ -1,0 +1,4 @@
+# Extracted from https://stackoverflow.com/questions/3781851/run-a-python-script-from-another-python-script-passing-in-arguments
+import subprocess
+subprocess.call(" python script2.py 1", shell=True)
+

@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/47234130/typeerror-list-indices-must-be-integers-or-slices-not-str-when-using-nested-di
+inverted_index={'word1':{'0':idf_value, '1': 2 , 'filename1': frequency_value, 'filename2': frequency_value},'word2':{'0':idf_value, '1': 2, 'filename1': frequency_value, 'filename2': frequency_value}}

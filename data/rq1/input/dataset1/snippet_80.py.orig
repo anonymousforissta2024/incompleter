@@ -1,0 +1,28 @@
+# Extracted from https://stackoverflow.com/questions/735975/static-methods-in-python
+ClassName.StaticMethod()
+
+class ClassName(object):
+
+    @staticmethod
+    def static_method(kwarg1=None):
+        '''return a value that is a function of kwarg1'''
+
+class ClassName(object):
+
+    def static_method(kwarg1=None):
+        '''return a value that is a function of kwarg1'''
+
+    static_method = staticmethod(static_method)
+
+ClassName.static_method()
+
+class ClassName(object):
+
+    @classmethod
+    def class_method(cls, kwarg1=None):
+        '''return a value that is a function of the class and kwarg1'''
+
+new_instance = ClassName.class_method()
+
+new_dict = dict.fromkeys(['key1', 'key2'])
+

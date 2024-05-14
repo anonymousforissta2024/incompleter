@@ -1,0 +1,4 @@
+# Extracted from https://stackoverflow.com/questions/216972/what-does-it-mean-if-a-python-object-is-subscriptable-or-not
+arr = []
+arr.append["HI"]
+

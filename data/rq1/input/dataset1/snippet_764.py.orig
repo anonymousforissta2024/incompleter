@@ -1,0 +1,4 @@
+# Extracted from https://stackoverflow.com/questions/6567831/how-to-perform-or-condition-in-django-queryset
+from django.db.models import Q
+User.objects.filter(Q(income__gte=5000) | Q(income__isnull=True),category='income')
+

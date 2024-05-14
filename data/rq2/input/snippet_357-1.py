@@ -1,0 +1,11 @@
+import pandas as pd
+print('First date:')
+print(newday)
+print('\nThe day name of the said date:')
+print(newday.day_name())
+print('\nAdd 2 days with the said date:')
+newday1 = newday + pd.Timedelta('2 day')
+print(newday1.day_name())
+print('\nNext business day:')
+nbday = newday + pd.offsets.BDay()
+print(nbday.day_name())

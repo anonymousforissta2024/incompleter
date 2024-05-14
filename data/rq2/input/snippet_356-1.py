@@ -1,0 +1,7 @@
+index = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+print('Base numbers abd index: ')
+print(bases_num)
+print(index)
+result = list(map(pow, bases_num, index))
+print('\nPower of said number in bases raised to the corresponding number in the index:')
+print(result)

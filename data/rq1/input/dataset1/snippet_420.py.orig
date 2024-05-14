@@ -1,0 +1,5 @@
+# Extracted from https://stackoverflow.com/questions/16729574/how-can-i-get-a-value-from-a-cell-of-a-dataframe
+# This is also equivalent to df1.at['a','A']
+In [55]: df1.loc['a', 'A']
+Out[55]: 0.13200317033032932
+

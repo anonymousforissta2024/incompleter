@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/53065790/i-am-getting-this-error-typeerror-int-object-is-not-iterable-using-the-re
+amount_recieved = functools.reduce(lambda tx_sum, tx_amt: tx_sum + sum(tx_amt[0]) if len(tx_amt) > 0 else 0, tx_recipient, 0)

@@ -1,0 +1,8 @@
+# Extracted from https://stackoverflow.com/questions/6921699/can-i-get-json-to-load-into-an-ordereddict
+my_ordered_dict = json.loads(json_str, object_pairs_hook=collections.OrderedDict)
+
+import simplejson as json
+import ordereddict
+
+my_ordered_dict = json.loads(json_str, object_pairs_hook=ordereddict.OrderedDict)
+

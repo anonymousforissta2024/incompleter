@@ -1,0 +1,15 @@
+import numpy as np
+list1 = [3, 4, 5, 6]
+print(type(list1))
+print(list1)
+print()
+array1 = np.asarray(list1)
+print(type(array1))
+print(array1)
+print()
+print(type(tuple1))
+print(tuple1)
+print()
+array2 = np.asarray(tuple1)
+print(type(array2))
+print(array2)

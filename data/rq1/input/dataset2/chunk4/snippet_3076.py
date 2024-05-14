@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/66267530/receiving-attribute-errormodule-object-has-no-attribute-when-running-my-cod
+command_output = subprocess.run(["netsh","wlan","show","profiles"], capture_output = True).stdout.decode()

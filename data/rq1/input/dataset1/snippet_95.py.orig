@@ -1,0 +1,21 @@
+# Extracted from https://stackoverflow.com/questions/1319615/proper-way-to-declare-custom-exceptions-in-modern-python
+class MyException(Exception):
+    pass
+
+raise MyException("My hovercraft is full of eels")
+
+raise MyException({"message":"My hovercraft is full of animals", "animal":"eels"})
+
+try:
+    raise MyException({"message":"My hovercraft is full of animals", "animal":"eels"})
+except MyException as e:
+    details = e.args[0]
+    print(details["animal"])
+
+class MyError(Exception):
+    def __init__(self, message, animal):
+        self.message = message
+        self.animal = animal
+    def __str__(self):
+        return self.message
+

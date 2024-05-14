@@ -1,0 +1,13 @@
+import numpy as np
+y = np.array([2, 2, 1], float)
+print('Matrices and vectors.')
+print('x:')
+print(x)
+print('y:')
+print(y)
+print('Inner product of x and y:')
+print(np.inner(x, y))
+print('Outer product of x and y:')
+print(np.outer(x, y))
+print('Cross product of x and y:')
+print(np.cross(x, y))

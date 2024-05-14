@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/19301489/pyside-pyqt-typeerror-native-qt-signal-is-not-callable-when-trying-to-use-c
+self.QTableWidget.currentItemChanged(QTableWidgetItem,QTableWidgetItem).connect(self.editCell)

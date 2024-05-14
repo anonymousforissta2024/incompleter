@@ -1,0 +1,10 @@
+import numpy as np
+print('Original array elements:')
+print(x)
+print('Access an array by column:')
+print('First column:')
+print(x[:, 0])
+print('Second column:')
+print(x[:, 1])
+print('Third column:')
+print(x[:, 2])

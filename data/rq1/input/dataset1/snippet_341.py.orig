@@ -1,0 +1,5 @@
+# Extracted from https://stackoverflow.com/questions/4534438/typeerror-module-object-is-not-callable
+from .YourClass import YourClass
+
+from YourClassParentDir import YourClass
+

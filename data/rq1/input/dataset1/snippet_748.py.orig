@@ -1,0 +1,5 @@
+# Extracted from https://stackoverflow.com/questions/26414913/normalize-columns-of-a-dataframe
+df = df/df.max().astype(np.float64)
+
+df = df/df.loc[df.abs().idxmax()].astype(np.float64)
+

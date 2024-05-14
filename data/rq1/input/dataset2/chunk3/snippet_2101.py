@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/50913997/tensorflow-typeerror-tensorshape-object-is-not-callable
+var_c = tf.get_variable('name_b',shape=[input_x.get_shape()[1],2],dtype=tf.float32,initializer=tf.random_uniform_initializer())

@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/56553165/how-to-fix-typeerror-catg-id-is-an-invalid-keyword-argument
+url(r'^categories/(?P<Catg_id>[0-9])/(?P<Type_id>[0-9]+)/(?P<Product_id>[0-9]+)/$', views.Choice, name='choice'),

@@ -1,0 +1,5 @@
+# Extracted from https://stackoverflow.com/questions/582336/how-do-i-profile-a-python-script
+from speed_testpy import ScriptProfilerPy
+
+ScriptProfilerPy("path_to_your_script_to_test.py").Profiler()
+

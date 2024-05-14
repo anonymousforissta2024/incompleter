@@ -1,0 +1,3656 @@
+{
+    "488-0": {
+        "variable": "str1",
+        "type": "str",
+        "line_no": "29",
+        "contains_imports": true
+    },
+    "24-0": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "24-1": {
+        "variable": "result",
+        "type": "DataFrame",
+        "line_no": "15",
+        "contains_imports": true
+    },
+    "146-0": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "146-1": {
+        "variable": "y",
+        "type": "ndarray",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "397-0": {
+        "variable": "thbday",
+        "type": "Timestamp",
+        "line_no": "15",
+        "contains_imports": true
+    },
+    "397-1": {
+        "variable": "dt",
+        "type": "datetime",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "397-2": {
+        "variable": "nbday",
+        "type": "Timestamp",
+        "line_no": "18",
+        "contains_imports": true
+    },
+    "397-3": {
+        "variable": "tbday",
+        "type": "Timestamp",
+        "line_no": "12",
+        "contains_imports": true
+    },
+    "397-4": {
+        "variable": "obday",
+        "type": "Timestamp",
+        "line_no": "9",
+        "contains_imports": true
+    },
+    "75-0": {
+        "variable": "n_list",
+        "type": "list",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "286-0": {
+        "variable": "items",
+        "type": "doubly_linked_list",
+        "line_no": "45",
+        "contains_imports": false
+    },
+    "117-0": {
+        "variable": "result",
+        "type": "DataFrame",
+        "line_no": "17",
+        "contains_imports": true
+    },
+    "117-1": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "86-0": {
+        "variable": "result",
+        "type": "DataFrame",
+        "line_no": "14",
+        "contains_imports": true
+    },
+    "86-1": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "275-0": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "335-0": {
+        "variable": "os_profile",
+        "type": "list",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "224-0": {
+        "variable": "d",
+        "type": "dict",
+        "line_no": "4",
+        "contains_imports": false
+    },
+    "41-0": {
+        "variable": "result",
+        "type": "Series",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "41-1": {
+        "variable": "series1",
+        "type": "Series",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "123-0": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "350-0": {
+        "variable": "array_num",
+        "type": "array",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "241-0": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "251-0": {
+        "variable": "result",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "191-0": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "200-0": {
+        "variable": "array",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "340-0": {
+        "variable": "array_nums",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "374-0": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "234-0": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "234-1": {
+        "variable": "new_data",
+        "type": "list",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "265-0": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "96-0": {
+        "variable": "numbers",
+        "type": "list",
+        "line_no": "1",
+        "contains_imports": false
+    },
+    "296-0": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "387-0": {
+        "variable": "nums",
+        "type": "list",
+        "line_no": "5",
+        "contains_imports": false
+    },
+    "156-0": {
+        "variable": "x",
+        "type": "int",
+        "line_no": "3",
+        "contains_imports": false
+    },
+    "156-1": {
+        "variable": "L",
+        "type": "list",
+        "line_no": "1",
+        "contains_imports": false
+    },
+    "34-0": {
+        "variable": "students",
+        "type": "dict",
+        "line_no": "4",
+        "contains_imports": false
+    },
+    "14-0": {
+        "variable": "items",
+        "type": "list",
+        "line_no": "1",
+        "contains_imports": false
+    },
+    "45-0": {
+        "variable": "str_list1",
+        "type": "list",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "45-1": {
+        "variable": "l",
+        "type": "int",
+        "line_no": "8",
+        "contains_imports": true
+    },
+    "127-0": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "245-0": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "245-1": {
+        "variable": "n",
+        "type": "int",
+        "line_no": "6",
+        "contains_imports": true
+    },
+    "354-0": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "185-0": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "214-0": {
+        "variable": "list1",
+        "type": "list",
+        "line_no": "7",
+        "contains_imports": true
+    },
+    "214-1": {
+        "variable": "list3",
+        "type": "list",
+        "line_no": "9",
+        "contains_imports": true
+    },
+    "214-2": {
+        "variable": "list2",
+        "type": "list",
+        "line_no": "8",
+        "contains_imports": true
+    },
+    "71-0": {
+        "variable": "nums",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "113-0": {
+        "variable": "new_array",
+        "type": "ndarray",
+        "line_no": "6",
+        "contains_imports": true
+    },
+    "113-1": {
+        "variable": "nums1",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "113-2": {
+        "variable": "nums2",
+        "type": "ndarray",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "20-0": {
+        "variable": "color3",
+        "type": "list",
+        "line_no": "9",
+        "contains_imports": false
+    },
+    "20-1": {
+        "variable": "color2",
+        "type": "list",
+        "line_no": "8",
+        "contains_imports": false
+    },
+    "20-2": {
+        "variable": "color1",
+        "type": "list",
+        "line_no": "7",
+        "contains_imports": false
+    },
+    "142-1": {
+        "variable": "students",
+        "type": "list",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "393-0": {
+        "variable": "nums",
+        "type": "list",
+        "line_no": "19",
+        "contains_imports": false
+    },
+    "220-0": {
+        "variable": "a",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "360-0": {
+        "variable": "a2",
+        "type": "ndarray",
+        "line_no": "7",
+        "contains_imports": true
+    },
+    "360-1": {
+        "variable": "a_bytes",
+        "type": "bytes",
+        "line_no": "6",
+        "contains_imports": true
+    },
+    "360-2": {
+        "variable": "a",
+        "type": "ndarray",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "82-0": {
+        "variable": "uno_list",
+        "type": "list",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "82-1": {
+        "variable": "result",
+        "type": "list",
+        "line_no": "11",
+        "contains_imports": true
+    },
+    "331-0": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "321-0": {
+        "variable": "list1",
+        "type": "list",
+        "line_no": "1",
+        "contains_imports": true
+    },
+    "321-1": {
+        "variable": "list2",
+        "type": "list",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "261-1": {
+        "variable": "colors",
+        "type": "list",
+        "line_no": "4",
+        "contains_imports": false
+    },
+    "92-0": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "370-0": {
+        "variable": "x",
+        "type": "list",
+        "line_no": "1",
+        "contains_imports": false
+    },
+    "230-0": {
+        "variable": "nums",
+        "type": "list",
+        "line_no": "11",
+        "contains_imports": true
+    },
+    "383-0": {
+        "variable": "nums",
+        "type": "list",
+        "line_no": "4",
+        "contains_imports": false
+    },
+    "292-0": {
+        "variable": "tidx",
+        "type": "ndarray",
+        "line_no": "7",
+        "contains_imports": true
+    },
+    "292-1": {
+        "variable": "a",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "103-0": {
+        "variable": "nums",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "61-0": {
+        "variable": "result",
+        "type": "dict",
+        "line_no": "23",
+        "contains_imports": false
+    },
+    "61-1": {
+        "variable": "student_data",
+        "type": "dict",
+        "line_no": "1",
+        "contains_imports": false
+    },
+    "344-1": {
+        "variable": "max_length",
+        "type": "int",
+        "line_no": "6",
+        "contains_imports": true
+    },
+    "315-0": {
+        "variable": "nlist",
+        "type": "list",
+        "line_no": "12",
+        "contains_imports": false
+    },
+    "137-0": {
+        "variable": "sales_index",
+        "type": "MultiIndex",
+        "line_no": "6",
+        "contains_imports": true
+    },
+    "137-1": {
+        "variable": "sales_tuples",
+        "type": "list",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "137-2": {
+        "variable": "sales_arrays",
+        "type": "list",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "137-4": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "8",
+        "contains_imports": true
+    },
+    "55-0": {
+        "variable": "mums1",
+        "type": "list",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "55-1": {
+        "variable": "mums3",
+        "type": "list",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "55-2": {
+        "variable": "mums4",
+        "type": "list",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "55-3": {
+        "variable": "mums2",
+        "type": "list",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "166-0": {
+        "variable": "dict_data_list",
+        "type": "list",
+        "line_no": "16",
+        "contains_imports": true
+    },
+    "166-1": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "15-0": {
+        "variable": "date_of_birth",
+        "type": "list",
+        "line_no": "10",
+        "contains_imports": true
+    },
+    "15-1": {
+        "variable": "idx",
+        "type": "int",
+        "line_no": "11",
+        "contains_imports": true
+    },
+    "15-2": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "177-0": {
+        "variable": "color2",
+        "type": "tuple",
+        "line_no": "2",
+        "contains_imports": false
+    },
+    "177-1": {
+        "variable": "color1",
+        "type": "tuple",
+        "line_no": "1",
+        "contains_imports": false
+    },
+    "44-0": {
+        "variable": "nums",
+        "type": "ndarray",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "304-0": {
+        "variable": "result",
+        "type": "tuple",
+        "line_no": "14",
+        "contains_imports": true
+    },
+    "304-1": {
+        "variable": "list_str",
+        "type": "list",
+        "line_no": "10",
+        "contains_imports": true
+    },
+    "304-2": {
+        "variable": "N",
+        "type": "int",
+        "line_no": "13",
+        "contains_imports": true
+    },
+    "244-0": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "215-0": {
+        "variable": "result",
+        "type": "ndarray",
+        "line_no": "6",
+        "contains_imports": true
+    },
+    "215-1": {
+        "variable": "nums",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "215-2": {
+        "variable": "new_nums",
+        "type": "ndarray",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "70-1": {
+        "variable": "result",
+        "type": "list",
+        "line_no": "6",
+        "contains_imports": true
+    },
+    "70-2": {
+        "variable": "texts",
+        "type": "list",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "283-0": {
+        "variable": "nums",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "112-0": {
+        "variable": "student",
+        "type": "list",
+        "line_no": "1",
+        "contains_imports": false
+    },
+    "21-0": {
+        "variable": "nums",
+        "type": "list",
+        "line_no": "1",
+        "contains_imports": false
+    },
+    "21-1": {
+        "variable": "result",
+        "type": "list",
+        "line_no": "4",
+        "contains_imports": false
+    },
+    "143-0": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "143-1": {
+        "variable": "y",
+        "type": "ndarray",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "221-0": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "221-1": {
+        "variable": "r2",
+        "type": "ndarray",
+        "line_no": "6",
+        "contains_imports": true
+    },
+    "221-2": {
+        "variable": "r1",
+        "type": "ndarray",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "361-0": {
+        "variable": "mtp",
+        "type": "Period",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "270-0": {
+        "variable": "array_num",
+        "type": "array",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "260-0": {
+        "variable": "ctr",
+        "type": "int",
+        "line_no": "2",
+        "contains_imports": false
+    },
+    "371-0": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "371-1": {
+        "variable": "td_props",
+        "type": "list",
+        "line_no": "24",
+        "contains_imports": true
+    },
+    "371-2": {
+        "variable": "th_props",
+        "type": "list",
+        "line_no": "15",
+        "contains_imports": true
+    },
+    "371-3": {
+        "variable": "styles",
+        "type": "list",
+        "line_no": "29",
+        "contains_imports": true
+    },
+    "231-0": {
+        "variable": "nums1",
+        "type": "list",
+        "line_no": "4",
+        "contains_imports": false
+    },
+    "231-1": {
+        "variable": "nums2",
+        "type": "list",
+        "line_no": "5",
+        "contains_imports": false
+    },
+    "231-2": {
+        "variable": "nums3",
+        "type": "list",
+        "line_no": "6",
+        "contains_imports": false
+    },
+    "382-0": {
+        "variable": "result",
+        "type": "list",
+        "line_no": "12",
+        "contains_imports": true
+    },
+    "382-1": {
+        "variable": "text_list",
+        "type": "list",
+        "line_no": "8",
+        "contains_imports": true
+    },
+    "153-0": {
+        "variable": "list_color",
+        "type": "list",
+        "line_no": "5",
+        "contains_imports": false
+    },
+    "102-0": {
+        "variable": "date_range",
+        "type": "TimedeltaIndex",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "194-0": {
+        "variable": "students",
+        "type": "list",
+        "line_no": "4",
+        "contains_imports": false
+    },
+    "205-0": {
+        "variable": "r2",
+        "type": "DatetimeIndex",
+        "line_no": "6",
+        "contains_imports": true
+    },
+    "205-1": {
+        "variable": "r1",
+        "type": "DatetimeIndex",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "345-0": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "314-0": {
+        "variable": "nums",
+        "type": "array",
+        "line_no": "17",
+        "contains_imports": true
+    },
+    "314-1": {
+        "variable": "result",
+        "type": "tuple",
+        "line_no": "20",
+        "contains_imports": true
+    },
+    "314-2": {
+        "variable": "nums_arr",
+        "type": "list",
+        "line_no": "19",
+        "contains_imports": true
+    },
+    "167-0": {
+        "variable": "s",
+        "type": "str",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "489-0": {
+        "variable": "f_extns",
+        "type": "list",
+        "line_no": "2",
+        "contains_imports": false
+    },
+    "489-1": {
+        "variable": "filename",
+        "type": "str",
+        "line_no": "1",
+        "contains_imports": false
+    },
+    "25-0": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "396-0": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "116-0": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "116-1": {
+        "variable": "y",
+        "type": "ndarray",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "287-0": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "87-0": {
+        "variable": "nums",
+        "type": "dict",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "87-1": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "274-0": {
+        "variable": "nums",
+        "type": "list",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "334-0": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "365-0": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "10",
+        "contains_imports": true
+    },
+    "365-1": {
+        "variable": "sales_index",
+        "type": "MultiIndex",
+        "line_no": "7",
+        "contains_imports": true
+    },
+    "365-2": {
+        "variable": "sales_tuples",
+        "type": "list",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "365-3": {
+        "variable": "sales_arrays",
+        "type": "list",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "173-0": {
+        "variable": "l2",
+        "type": "list",
+        "line_no": "5",
+        "contains_imports": false
+    },
+    "173-1": {
+        "variable": "l1",
+        "type": "list",
+        "line_no": "4",
+        "contains_imports": false
+    },
+    "173-2": {
+        "variable": "l3",
+        "type": "list",
+        "line_no": "6",
+        "contains_imports": false
+    },
+    "351-0": {
+        "variable": "result",
+        "type": "tuple",
+        "line_no": "7",
+        "contains_imports": false
+    },
+    "180-0": {
+        "variable": "result",
+        "type": "Series",
+        "line_no": "8",
+        "contains_imports": true
+    },
+    "180-1": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "211-0": {
+        "variable": "nums",
+        "type": "list",
+        "line_no": "4",
+        "contains_imports": false
+    },
+    "240-0": {
+        "variable": "nums",
+        "type": "list",
+        "line_no": "8",
+        "contains_imports": false
+    },
+    "240-1": {
+        "variable": "result",
+        "type": "tuple",
+        "line_no": "11",
+        "contains_imports": false
+    },
+    "250-0": {
+        "variable": "nums",
+        "type": "list",
+        "line_no": "8",
+        "contains_imports": true
+    },
+    "250-1": {
+        "variable": "num_position",
+        "type": "int",
+        "line_no": "10",
+        "contains_imports": true
+    },
+    "250-2": {
+        "variable": "x",
+        "type": "int",
+        "line_no": "9",
+        "contains_imports": true
+    },
+    "310-0": {
+        "variable": "my_tuple",
+        "type": "tuple",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "310-1": {
+        "variable": "my_list",
+        "type": "list",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "190-0": {
+        "variable": "n2",
+        "type": "list",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "190-1": {
+        "variable": "n1",
+        "type": "list",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "341-0": {
+        "variable": "key",
+        "type": "str",
+        "line_no": "16",
+        "contains_imports": true
+    },
+    "341-1": {
+        "variable": "elements",
+        "type": "list",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "341-2": {
+        "variable": "d",
+        "type": "dict",
+        "line_no": "15",
+        "contains_imports": true
+    },
+    "132-1": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "6",
+        "contains_imports": true
+    },
+    "50-0": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "375-0": {
+        "variable": "arra_data",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "235-0": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "235-1": {
+        "variable": "new_array",
+        "type": "ndarray",
+        "line_no": "9",
+        "contains_imports": true
+    },
+    "235-2": {
+        "variable": "y",
+        "type": "ndarray",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "324-0": {
+        "variable": "arra_data",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "106-0": {
+        "variable": "str1",
+        "type": "str",
+        "line_no": "1",
+        "contains_imports": false
+    },
+    "64-0": {
+        "variable": "students",
+        "type": "dict",
+        "line_no": "5",
+        "contains_imports": false
+    },
+    "386-0": {
+        "variable": "df_agg",
+        "type": "DataFrame",
+        "line_no": "12",
+        "contains_imports": true
+    },
+    "386-1": {
+        "variable": "result",
+        "type": "SeriesGroupBy",
+        "line_no": "13",
+        "contains_imports": true
+    },
+    "386-2": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "35-0": {
+        "variable": "result",
+        "type": "ndarray",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "35-1": {
+        "variable": "arra",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "499-0": {
+        "variable": "arr1",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "499-1": {
+        "variable": "result",
+        "type": "ndarray",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "129-0": {
+        "variable": "nums",
+        "type": "list",
+        "line_no": "10",
+        "contains_imports": false
+    },
+    "178-0": {
+        "variable": "items",
+        "type": "doubly_linked_list",
+        "line_no": "39",
+        "contains_imports": false
+    },
+    "445-0": {
+        "variable": "odd_deque",
+        "type": "deque",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "445-1": {
+        "variable": "odd_nums",
+        "type": "tuple",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "482-0": {
+        "variable": "deque_colors",
+        "type": "deque",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "471-0": {
+        "variable": "df2",
+        "type": "DataFrame",
+        "line_no": "15",
+        "contains_imports": true
+    },
+    "471-1": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "471-2": {
+        "variable": "df1",
+        "type": "DataFrame",
+        "line_no": "12",
+        "contains_imports": true
+    },
+    "461-0": {
+        "variable": "x",
+        "type": "int",
+        "line_no": "1",
+        "contains_imports": false
+    },
+    "461-1": {
+        "variable": "y",
+        "type": "int",
+        "line_no": "2",
+        "contains_imports": false
+    },
+    "430-0": {
+        "variable": "colors",
+        "type": "list",
+        "line_no": "1",
+        "contains_imports": false
+    },
+    "492-0": {
+        "variable": "df1",
+        "type": "DataFrame",
+        "line_no": "8",
+        "contains_imports": true
+    },
+    "492-1": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "455-0": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "168-0": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "139-0": {
+        "variable": "nums",
+        "type": "list",
+        "line_no": "4",
+        "contains_imports": false
+    },
+    "88-0": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "88-1": {
+        "variable": "r2",
+        "type": "ndarray",
+        "line_no": "6",
+        "contains_imports": true
+    },
+    "88-2": {
+        "variable": "r1",
+        "type": "ndarray",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "288-0": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "7",
+        "contains_imports": true
+    },
+    "288-1": {
+        "variable": "num_arra",
+        "type": "ndarray",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "288-2": {
+        "variable": "num_ser",
+        "type": "Series",
+        "line_no": "6",
+        "contains_imports": true
+    },
+    "288-3": {
+        "variable": "num_dict",
+        "type": "dict",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "288-4": {
+        "variable": "char_list",
+        "type": "list",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "119-0": {
+        "variable": "items",
+        "type": "singly_linked_list",
+        "line_no": "46",
+        "contains_imports": true
+    },
+    "148-0": {
+        "variable": "s",
+        "type": "Series",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "399-0": {
+        "variable": "d",
+        "type": "dict",
+        "line_no": "1",
+        "contains_imports": false
+    },
+    "1-0": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "475-0": {
+        "variable": "pi_val",
+        "type": "Decimal",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "475-1": {
+        "variable": "num_str",
+        "type": "Decimal",
+        "line_no": "7",
+        "contains_imports": true
+    },
+    "424-0": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "410-0": {
+        "variable": "a",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "434-0": {
+        "variable": "colors",
+        "type": "list",
+        "line_no": "7",
+        "contains_imports": true
+    },
+    "465-0": {
+        "variable": "result",
+        "type": "ndarray",
+        "line_no": "16",
+        "contains_imports": true
+    },
+    "465-1": {
+        "variable": "student",
+        "type": "ndarray",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "465-2": {
+        "variable": "char",
+        "type": "str",
+        "line_no": "15",
+        "contains_imports": true
+    },
+    "496-0": {
+        "variable": "m",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "496-1": {
+        "variable": "result",
+        "type": "float64",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "389-0": {
+        "variable": "data",
+        "type": "list",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "158-0": {
+        "variable": "n",
+        "type": "list",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "109-0": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "298-0": {
+        "variable": "a",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "298-1": {
+        "variable": "b",
+        "type": "ndarray",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "89-0": {
+        "variable": "result",
+        "type": "tuple",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "89-1": {
+        "variable": "m",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "118-0": {
+        "variable": "m",
+        "type": "matrix",
+        "line_no": "6",
+        "contains_imports": true
+    },
+    "118-1": {
+        "variable": "result1",
+        "type": "float64",
+        "line_no": "7",
+        "contains_imports": true
+    },
+    "118-2": {
+        "variable": "result",
+        "type": "float64",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "118-3": {
+        "variable": "v",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "149-0": {
+        "variable": "X",
+        "type": "ndarray",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "149-1": {
+        "variable": "Y",
+        "type": "ndarray",
+        "line_no": "6",
+        "contains_imports": true
+    },
+    "487-0": {
+        "variable": "array_nums1",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "487-1": {
+        "variable": "result",
+        "type": "ndarray",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "425-0": {
+        "variable": "exam_st_date",
+        "type": "tuple",
+        "line_no": "1",
+        "contains_imports": true
+    },
+    "411-0": {
+        "variable": "sales_tuples",
+        "type": "list",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "411-1": {
+        "variable": "sales_arrays",
+        "type": "list",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "411-2": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "9",
+        "contains_imports": true
+    },
+    "411-3": {
+        "variable": "sales_index",
+        "type": "MultiIndex",
+        "line_no": "6",
+        "contains_imports": true
+    },
+    "440-0": {
+        "variable": "items",
+        "type": "singly_linked_list",
+        "line_no": "40",
+        "contains_imports": false
+    },
+    "500-0": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "450-0": {
+        "variable": "array1",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "450-1": {
+        "variable": "array2",
+        "type": "list",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "401-0": {
+        "variable": "l",
+        "type": "list",
+        "line_no": "1",
+        "contains_imports": false
+    },
+    "435-0": {
+        "variable": "a",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "497-0": {
+        "variable": "d",
+        "type": "dict",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "159-0": {
+        "variable": "nums",
+        "type": "list",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "299-0": {
+        "variable": "grouped",
+        "type": "DataFrameGroupBy",
+        "line_no": "18",
+        "contains_imports": true
+    },
+    "299-1": {
+        "variable": "student_data",
+        "type": "DataFrame",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "179-0": {
+        "variable": "new_array",
+        "type": "ndarray",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "179-1": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "415-0": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "483-0": {
+        "variable": "list1",
+        "type": "list",
+        "line_no": "5",
+        "contains_imports": false
+    },
+    "421-0": {
+        "variable": "dict_nums",
+        "type": "dict",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "4-0": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "4-1": {
+        "variable": "y",
+        "type": "ndarray",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "470-0": {
+        "variable": "color",
+        "type": "dict",
+        "line_no": "4",
+        "contains_imports": false
+    },
+    "460-0": {
+        "variable": "dateset2",
+        "type": "DatetimeIndex",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "460-1": {
+        "variable": "dateset1",
+        "type": "DatetimeIndex",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "431-0": {
+        "variable": "items",
+        "type": "doubly_linked_list",
+        "line_no": "44",
+        "contains_imports": false
+    },
+    "493-0": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "493-1": {
+        "variable": "new_array",
+        "type": "ndarray",
+        "line_no": "9",
+        "contains_imports": true
+    },
+    "493-2": {
+        "variable": "y",
+        "type": "ndarray",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "454-0": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "169-0": {
+        "variable": "nums",
+        "type": "Series",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "138-0": {
+        "variable": "nums",
+        "type": "list",
+        "line_no": "18",
+        "contains_imports": false
+    },
+    "28-0": {
+        "variable": "nums",
+        "type": "list",
+        "line_no": "4",
+        "contains_imports": false
+    },
+    "28-1": {
+        "variable": "n",
+        "type": "int",
+        "line_no": "7",
+        "contains_imports": false
+    },
+    "79-0": {
+        "variable": "a",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "79-1": {
+        "variable": "d",
+        "type": "ndarray",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "368-0": {
+        "variable": "X",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "426-0": {
+        "variable": "str1",
+        "type": "str",
+        "line_no": "5",
+        "contains_imports": false
+    },
+    "477-0": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "477-1": {
+        "variable": "result",
+        "type": "DataFrame",
+        "line_no": "14",
+        "contains_imports": true
+    },
+    "3-0": {
+        "variable": "num",
+        "type": "list",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "3-1": {
+        "variable": "new_num",
+        "type": "list",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "412-0": {
+        "variable": "result",
+        "type": "int64",
+        "line_no": "13",
+        "contains_imports": true
+    },
+    "412-1": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "453-0": {
+        "variable": "word_list",
+        "type": "list",
+        "line_no": "55",
+        "contains_imports": true
+    },
+    "453-1": {
+        "variable": "word_freq",
+        "type": "list",
+        "line_no": "57",
+        "contains_imports": true
+    },
+    "453-2": {
+        "variable": "string_words",
+        "type": "str",
+        "line_no": "1",
+        "contains_imports": true
+    },
+    "494-0": {
+        "variable": "L",
+        "type": "ndarray",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "494-1": {
+        "variable": "a",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "378-0": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "238-0": {
+        "variable": "color1",
+        "type": "list",
+        "line_no": "4",
+        "contains_imports": false
+    },
+    "329-0": {
+        "variable": "student",
+        "type": "dict",
+        "line_no": "1",
+        "contains_imports": false
+    },
+    "269-0": {
+        "variable": "array_2D",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "69-0": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "69-1": {
+        "variable": "r2",
+        "type": "ndarray",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "69-2": {
+        "variable": "r1",
+        "type": "ndarray",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "18-0": {
+        "variable": "result",
+        "type": "ndarray",
+        "line_no": "6",
+        "contains_imports": true
+    },
+    "18-1": {
+        "variable": "k",
+        "type": "int",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "18-2": {
+        "variable": "array1",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "49-0": {
+        "variable": "nums1",
+        "type": "list",
+        "line_no": "5",
+        "contains_imports": false
+    },
+    "49-1": {
+        "variable": "nums2",
+        "type": "list",
+        "line_no": "11",
+        "contains_imports": false
+    },
+    "309-0": {
+        "variable": "items",
+        "type": "doubly_linked_list",
+        "line_no": "72",
+        "contains_imports": false
+    },
+    "249-0": {
+        "variable": "list1",
+        "type": "list",
+        "line_no": "4",
+        "contains_imports": false
+    },
+    "218-0": {
+        "variable": "x",
+        "type": "int",
+        "line_no": "1",
+        "contains_imports": false
+    },
+    "447-0": {
+        "variable": "result",
+        "type": "Series",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "7-0": {
+        "variable": "fib_series",
+        "type": "function",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "473-0": {
+        "variable": "nums",
+        "type": "list",
+        "line_no": "1",
+        "contains_imports": true
+    },
+    "473-1": {
+        "variable": "even_nums",
+        "type": "list",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "473-2": {
+        "variable": "odd_nums",
+        "type": "list",
+        "line_no": "8",
+        "contains_imports": true
+    },
+    "422-0": {
+        "variable": "ytp",
+        "type": "Period",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "490-0": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "490-1": {
+        "variable": "y",
+        "type": "ndarray",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "432-0": {
+        "variable": "a",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "432-1": {
+        "variable": "b",
+        "type": "ndarray",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "432-2": {
+        "variable": "c",
+        "type": "ndarray",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "463-0": {
+        "variable": "nums1",
+        "type": "list",
+        "line_no": "1",
+        "contains_imports": false
+    },
+    "463-1": {
+        "variable": "nums2",
+        "type": "list",
+        "line_no": "2",
+        "contains_imports": false
+    },
+    "463-2": {
+        "variable": "result",
+        "type": "map",
+        "line_no": "6",
+        "contains_imports": false
+    },
+    "457-0": {
+        "variable": "str1",
+        "type": "str",
+        "line_no": "1",
+        "contains_imports": false
+    },
+    "406-0": {
+        "variable": "x",
+        "type": "str",
+        "line_no": "1",
+        "contains_imports": false
+    },
+    "199-0": {
+        "variable": "num_list",
+        "type": "list",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "199-1": {
+        "variable": "array_num",
+        "type": "array",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "348-0": {
+        "variable": "my_nums",
+        "type": "list",
+        "line_no": "11",
+        "contains_imports": false
+    },
+    "259-0": {
+        "variable": "data1",
+        "type": "DataFrame",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "259-1": {
+        "variable": "result",
+        "type": "DataFrame",
+        "line_no": "15",
+        "contains_imports": true
+    },
+    "259-2": {
+        "variable": "data2",
+        "type": "DataFrame",
+        "line_no": "6",
+        "contains_imports": true
+    },
+    "59-0": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "19-0": {
+        "variable": "y",
+        "type": "tuple",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "19-1": {
+        "variable": "x",
+        "type": "tuple",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "48-0": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "6",
+        "contains_imports": true
+    },
+    "308-0": {
+        "variable": "alphabet",
+        "type": "set",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "308-1": {
+        "variable": "input_string",
+        "type": "str",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "248-0": {
+        "variable": "array_num",
+        "type": "array",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "219-0": {
+        "variable": "colors_list",
+        "type": "list",
+        "line_no": "5",
+        "contains_imports": false
+    },
+    "188-0": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "417-0": {
+        "variable": "element_pos",
+        "type": "list",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "417-1": {
+        "variable": "num_series",
+        "type": "Series",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "417-2": {
+        "variable": "result",
+        "type": "Series",
+        "line_no": "6",
+        "contains_imports": true
+    },
+    "446-0": {
+        "variable": "array_nums",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "472-0": {
+        "variable": "func",
+        "type": "function",
+        "line_no": "7",
+        "contains_imports": false
+    },
+    "6-0": {
+        "variable": "str_list1",
+        "type": "list",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "6-1": {
+        "variable": "l",
+        "type": "int",
+        "line_no": "8",
+        "contains_imports": true
+    },
+    "423-0": {
+        "variable": "text1",
+        "type": "str",
+        "line_no": "9",
+        "contains_imports": true
+    },
+    "423-1": {
+        "variable": "sample_text",
+        "type": "str",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "491-0": {
+        "variable": "nums",
+        "type": "list",
+        "line_no": "1",
+        "contains_imports": false
+    },
+    "433-0": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "456-0": {
+        "variable": "nums_arr",
+        "type": "list",
+        "line_no": "10",
+        "contains_imports": true
+    },
+    "456-1": {
+        "variable": "result",
+        "type": "int",
+        "line_no": "11",
+        "contains_imports": true
+    },
+    "456-2": {
+        "variable": "nums",
+        "type": "array",
+        "line_no": "8",
+        "contains_imports": true
+    },
+    "407-0": {
+        "variable": "remove_colors",
+        "type": "list",
+        "line_no": "6",
+        "contains_imports": true
+    },
+    "407-1": {
+        "variable": "colors",
+        "type": "list",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "209-0": {
+        "variable": "df_index",
+        "type": "list",
+        "line_no": "13",
+        "contains_imports": true
+    },
+    "209-1": {
+        "variable": "index",
+        "type": "Index",
+        "line_no": "12",
+        "contains_imports": true
+    },
+    "209-2": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "349-0": {
+        "variable": "class_students",
+        "type": "list",
+        "line_no": "6",
+        "contains_imports": false
+    },
+    "258-0": {
+        "variable": "items",
+        "type": "doubly_linked_list",
+        "line_no": "28",
+        "contains_imports": false
+    },
+    "318-2": {
+        "variable": "cols",
+        "type": "MultiIndex",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "58-0": {
+        "variable": "nlist",
+        "type": "list",
+        "line_no": "31",
+        "contains_imports": false
+    },
+    "78-0": {
+        "variable": "result1",
+        "type": "DataFrame",
+        "line_no": "21",
+        "contains_imports": true
+    },
+    "78-1": {
+        "variable": "n",
+        "type": "int",
+        "line_no": "18",
+        "contains_imports": true
+    },
+    "78-2": {
+        "variable": "result",
+        "type": "DataFrameGroupBy",
+        "line_no": "13",
+        "contains_imports": true
+    },
+    "78-3": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "338-0": {
+        "variable": "v",
+        "type": "int",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "338-1": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "338-2": {
+        "variable": "n",
+        "type": "float64",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "229-0": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "427-0": {
+        "variable": "s",
+        "type": "Series",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "476-1": {
+        "variable": "result",
+        "type": "array",
+        "line_no": "10",
+        "contains_imports": true
+    },
+    "485-0": {
+        "variable": "str1",
+        "type": "str",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "442-2": {
+        "variable": "root",
+        "type": "TreeNode",
+        "line_no": "20",
+        "contains_imports": false
+    },
+    "403-0": {
+        "variable": "class_rollno",
+        "type": "defaultdict",
+        "line_no": "11",
+        "contains_imports": true
+    },
+    "403-1": {
+        "variable": "classes",
+        "type": "tuple",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "452-0": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "495-0": {
+        "variable": "nums",
+        "type": "list",
+        "line_no": "4",
+        "contains_imports": false
+    },
+    "495-1": {
+        "variable": "chars",
+        "type": "list",
+        "line_no": "9",
+        "contains_imports": false
+    },
+    "466-0": {
+        "variable": "result",
+        "type": "map",
+        "line_no": "5",
+        "contains_imports": false
+    },
+    "466-1": {
+        "variable": "nums",
+        "type": "list",
+        "line_no": "3",
+        "contains_imports": false
+    },
+    "437-0": {
+        "variable": "arr1",
+        "type": "ndarray",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "437-1": {
+        "variable": "num",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "379-0": {
+        "variable": "nums1",
+        "type": "list",
+        "line_no": "7",
+        "contains_imports": true
+    },
+    "379-2": {
+        "variable": "nums2",
+        "type": "list",
+        "line_no": "13",
+        "contains_imports": true
+    },
+    "239-0": {
+        "variable": "n_list",
+        "type": "list",
+        "line_no": "9",
+        "contains_imports": false
+    },
+    "239-1": {
+        "variable": "result",
+        "type": "generator",
+        "line_no": "13",
+        "contains_imports": false
+    },
+    "239-2": {
+        "variable": "n",
+        "type": "int",
+        "line_no": "12",
+        "contains_imports": false
+    },
+    "328-0": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "268-0": {
+        "variable": "nums1",
+        "type": "list",
+        "line_no": "5",
+        "contains_imports": false
+    },
+    "268-1": {
+        "variable": "nums2",
+        "type": "list",
+        "line_no": "11",
+        "contains_imports": false
+    },
+    "68-0": {
+        "variable": "nums",
+        "type": "ndarray",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "9-0": {
+        "variable": "result",
+        "type": "ndarray",
+        "line_no": "6",
+        "contains_imports": true
+    },
+    "9-1": {
+        "variable": "arr1",
+        "type": "ndarray",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "9-2": {
+        "variable": "num",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "418-0": {
+        "variable": "nums1",
+        "type": "list",
+        "line_no": "4",
+        "contains_imports": false
+    },
+    "418-1": {
+        "variable": "nums2",
+        "type": "list",
+        "line_no": "5",
+        "contains_imports": false
+    },
+    "356-0": {
+        "variable": "index",
+        "type": "list",
+        "line_no": "2",
+        "contains_imports": false
+    },
+    "356-1": {
+        "variable": "result",
+        "type": "list",
+        "line_no": "6",
+        "contains_imports": false
+    },
+    "356-2": {
+        "variable": "bases_num",
+        "type": "list",
+        "line_no": "1",
+        "contains_imports": false
+    },
+    "187-0": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "216-0": {
+        "variable": "user_input",
+        "type": "str",
+        "line_no": "1",
+        "contains_imports": false
+    },
+    "247-0": {
+        "variable": "html",
+        "type": "HTTPResponse",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "247-1": {
+        "variable": "titles",
+        "type": "ResultSet",
+        "line_no": "9",
+        "contains_imports": true
+    },
+    "247-2": {
+        "variable": "bs",
+        "type": "BeautifulSoup",
+        "line_no": "7",
+        "contains_imports": true
+    },
+    "16-0": {
+        "variable": "nums",
+        "type": "list",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "80-0": {
+        "variable": "n",
+        "type": "int",
+        "line_no": "13",
+        "contains_imports": false
+    },
+    "273-0": {
+        "variable": "result",
+        "type": "DataFrame",
+        "line_no": "14",
+        "contains_imports": true
+    },
+    "273-1": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "333-0": {
+        "variable": "colors",
+        "type": "list",
+        "line_no": "5",
+        "contains_imports": false
+    },
+    "362-0": {
+        "variable": "a",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "362-1": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "6",
+        "contains_imports": true
+    },
+    "362-2": {
+        "variable": "y",
+        "type": "ndarray",
+        "line_no": "9",
+        "contains_imports": true
+    },
+    "22-0": {
+        "variable": "nums2",
+        "type": "ndarray",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "22-1": {
+        "variable": "nums1",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "140-0": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "140-1": {
+        "variable": "y",
+        "type": "ndarray",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "73-0": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "73-1": {
+        "variable": "new_array1",
+        "type": "list",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "111-0": {
+        "variable": "users",
+        "type": "dict",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "280-0": {
+        "variable": "nums",
+        "type": "list",
+        "line_no": "1",
+        "contains_imports": false
+    },
+    "381-0": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "372-0": {
+        "variable": "np_array",
+        "type": "ndarray",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "372-1": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "7",
+        "contains_imports": true
+    },
+    "323-0": {
+        "variable": "s",
+        "type": "str",
+        "line_no": "15",
+        "contains_imports": false
+    },
+    "263-0": {
+        "variable": "result",
+        "type": "ndarray",
+        "line_no": "6",
+        "contains_imports": true
+    },
+    "263-1": {
+        "variable": "np_array",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "90-0": {
+        "variable": "arra_data",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "135-0": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "57-0": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "317-0": {
+        "variable": "d1",
+        "type": "dict",
+        "line_no": "9",
+        "contains_imports": true
+    },
+    "317-1": {
+        "variable": "d2",
+        "type": "dict",
+        "line_no": "10",
+        "contains_imports": true
+    },
+    "206-0": {
+        "variable": "x",
+        "type": "int",
+        "line_no": "1",
+        "contains_imports": false
+    },
+    "206-1": {
+        "variable": "y",
+        "type": "int",
+        "line_no": "2",
+        "contains_imports": false
+    },
+    "197-0": {
+        "variable": "r1",
+        "type": "ndarray",
+        "line_no": "9",
+        "contains_imports": true
+    },
+    "197-1": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "197-2": {
+        "variable": "y",
+        "type": "ndarray",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "408-0": {
+        "variable": "new_nums",
+        "type": "ndarray",
+        "line_no": "6",
+        "contains_imports": true
+    },
+    "408-1": {
+        "variable": "nums",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "459-0": {
+        "variable": "num",
+        "type": "list",
+        "line_no": "1",
+        "contains_imports": false
+    },
+    "479-0": {
+        "variable": "l1",
+        "type": "list",
+        "line_no": "8",
+        "contains_imports": false
+    },
+    "428-0": {
+        "variable": "result1",
+        "type": "ndarray",
+        "line_no": "7",
+        "contains_imports": true
+    },
+    "428-1": {
+        "variable": "p",
+        "type": "list",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "428-2": {
+        "variable": "result2",
+        "type": "ndarray",
+        "line_no": "8",
+        "contains_imports": true
+    },
+    "428-3": {
+        "variable": "q",
+        "type": "list",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "226-0": {
+        "variable": "str1",
+        "type": "str",
+        "line_no": "22",
+        "contains_imports": false
+    },
+    "366-0": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "84-0": {
+        "variable": "numbers",
+        "type": "tuple",
+        "line_no": "1",
+        "contains_imports": false
+    },
+    "84-1": {
+        "variable": "count_odd",
+        "type": "int",
+        "line_no": "2",
+        "contains_imports": false
+    },
+    "84-2": {
+        "variable": "count_even",
+        "type": "int",
+        "line_no": "3",
+        "contains_imports": false
+    },
+    "277-0": {
+        "variable": "ctr",
+        "type": "int",
+        "line_no": "2",
+        "contains_imports": false
+    },
+    "277-1": {
+        "variable": "num",
+        "type": "list",
+        "line_no": "1",
+        "contains_imports": false
+    },
+    "337-0": {
+        "variable": "students",
+        "type": "dict",
+        "line_no": "5",
+        "contains_imports": false
+    },
+    "77-0": {
+        "variable": "students",
+        "type": "list",
+        "line_no": "6",
+        "contains_imports": false
+    },
+    "284-0": {
+        "variable": "nums1",
+        "type": "list",
+        "line_no": "6",
+        "contains_imports": false
+    },
+    "284-1": {
+        "variable": "nums2",
+        "type": "list",
+        "line_no": "11",
+        "contains_imports": false
+    },
+    "115-0": {
+        "variable": "array_nums",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "115-1": {
+        "variable": "new_array",
+        "type": "ndarray",
+        "line_no": "6",
+        "contains_imports": true
+    },
+    "26-0": {
+        "variable": "nums_x",
+        "type": "dict",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "26-1": {
+        "variable": "nums",
+        "type": "dict",
+        "line_no": "13",
+        "contains_imports": true
+    },
+    "26-2": {
+        "variable": "nums_copy",
+        "type": "dict",
+        "line_no": "14",
+        "contains_imports": true
+    },
+    "26-3": {
+        "variable": "nums_y",
+        "type": "dict",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "144-0": {
+        "variable": "nums2",
+        "type": "list",
+        "line_no": "6",
+        "contains_imports": true
+    },
+    "144-1": {
+        "variable": "nums1",
+        "type": "list",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "395-0": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "395-1": {
+        "variable": "y",
+        "type": "ndarray",
+        "line_no": "6",
+        "contains_imports": true
+    },
+    "303-0": {
+        "variable": "x",
+        "type": "int",
+        "line_no": "1",
+        "contains_imports": false
+    },
+    "303-1": {
+        "variable": "y",
+        "type": "int",
+        "line_no": "2",
+        "contains_imports": false
+    },
+    "243-0": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "352-0": {
+        "variable": "json_obj",
+        "type": "dict",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "352-1": {
+        "variable": "python_obj",
+        "type": "str",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "183-0": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "183-1": {
+        "variable": "new_array",
+        "type": "ndarray",
+        "line_no": "9",
+        "contains_imports": true
+    },
+    "183-2": {
+        "variable": "y",
+        "type": "ndarray",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "12-0": {
+        "variable": "new_nums",
+        "type": "ndarray",
+        "line_no": "6",
+        "contains_imports": true
+    },
+    "12-1": {
+        "variable": "nums",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "12-2": {
+        "variable": "p",
+        "type": "int",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "170-0": {
+        "variable": "rand_num",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "131-0": {
+        "variable": "l2",
+        "type": "list",
+        "line_no": "7",
+        "contains_imports": false
+    },
+    "131-1": {
+        "variable": "l1",
+        "type": "list",
+        "line_no": "6",
+        "contains_imports": false
+    },
+    "160-0": {
+        "variable": "str1",
+        "type": "str",
+        "line_no": "8",
+        "contains_imports": false
+    },
+    "160-1": {
+        "variable": "unwanted_chars",
+        "type": "list",
+        "line_no": "11",
+        "contains_imports": false
+    },
+    "160-2": {
+        "variable": "str2",
+        "type": "str",
+        "line_no": "9",
+        "contains_imports": false
+    },
+    "193-0": {
+        "variable": "d3",
+        "type": "set",
+        "line_no": "9",
+        "contains_imports": false
+    },
+    "193-1": {
+        "variable": "d2",
+        "type": "tuple",
+        "line_no": "6",
+        "contains_imports": false
+    },
+    "193-2": {
+        "variable": "d4",
+        "type": "dict",
+        "line_no": "12",
+        "contains_imports": false
+    },
+    "193-3": {
+        "variable": "d1",
+        "type": "list",
+        "line_no": "3",
+        "contains_imports": false
+    },
+    "202-0": {
+        "variable": "y",
+        "type": "list",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "202-1": {
+        "variable": "x",
+        "type": "list",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "342-0": {
+        "variable": "result",
+        "type": "ndarray",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "342-1": {
+        "variable": "arra",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "313-0": {
+        "variable": "my_dict",
+        "type": "dict",
+        "line_no": "1",
+        "contains_imports": false
+    },
+    "385-0": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "385-1": {
+        "variable": "y",
+        "type": "ndarray",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "105-0": {
+        "variable": "str1",
+        "type": "str",
+        "line_no": "15",
+        "contains_imports": true
+    },
+    "105-1": {
+        "variable": "str2",
+        "type": "str",
+        "line_no": "16",
+        "contains_imports": true
+    },
+    "294-0": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "294-1": {
+        "variable": "n",
+        "type": "ndarray",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "67-0": {
+        "variable": "num",
+        "type": "list",
+        "line_no": "1",
+        "contains_imports": false
+    },
+    "327-0": {
+        "variable": "L",
+        "type": "list",
+        "line_no": "1",
+        "contains_imports": false
+    },
+    "267-0": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "94-0": {
+        "variable": "chars",
+        "type": "list",
+        "line_no": "4",
+        "contains_imports": false
+    },
+    "438-0": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "438-1": {
+        "variable": "y",
+        "type": "ndarray",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "429-0": {
+        "variable": "nums",
+        "type": "list",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "367-0": {
+        "variable": "x",
+        "type": "bool",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "367-1": {
+        "variable": "p",
+        "type": "str",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "85-0": {
+        "variable": "payload",
+        "type": "dict",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "276-0": {
+        "variable": "nums1",
+        "type": "list",
+        "line_no": "8",
+        "contains_imports": false
+    },
+    "276-1": {
+        "variable": "nums3",
+        "type": "list",
+        "line_no": "10",
+        "contains_imports": false
+    },
+    "276-2": {
+        "variable": "nums2",
+        "type": "list",
+        "line_no": "9",
+        "contains_imports": false
+    },
+    "76-0": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "114-0": {
+        "variable": "nums",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "114-1": {
+        "variable": "new_nums",
+        "type": "NoneType",
+        "line_no": "9",
+        "contains_imports": true
+    },
+    "285-0": {
+        "variable": "dq_object",
+        "type": "deque",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "27-0": {
+        "variable": "new_s",
+        "type": "Series",
+        "line_no": "7",
+        "contains_imports": true
+    },
+    "27-1": {
+        "variable": "n",
+        "type": "int",
+        "line_no": "6",
+        "contains_imports": true
+    },
+    "27-2": {
+        "variable": "s",
+        "type": "Series",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "394-0": {
+        "variable": "nums",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "394-1": {
+        "variable": "bin_nums",
+        "type": "ndarray",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "302-0": {
+        "variable": "nums2",
+        "type": "list",
+        "line_no": "6",
+        "contains_imports": true
+    },
+    "302-1": {
+        "variable": "nums1",
+        "type": "list",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "213-0": {
+        "variable": "nums",
+        "type": "list",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "171-0": {
+        "variable": "list1",
+        "type": "list",
+        "line_no": "9",
+        "contains_imports": false
+    },
+    "171-1": {
+        "variable": "color1",
+        "type": "list",
+        "line_no": "15",
+        "contains_imports": false
+    },
+    "42-0": {
+        "variable": "q",
+        "type": "ndarray",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "42-1": {
+        "variable": "new_array1",
+        "type": "ndarray",
+        "line_no": "12",
+        "contains_imports": true
+    },
+    "42-2": {
+        "variable": "p",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "120-0": {
+        "variable": "diff",
+        "type": "Counter",
+        "line_no": "7",
+        "contains_imports": true
+    },
+    "120-1": {
+        "variable": "c1",
+        "type": "Counter",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "120-2": {
+        "variable": "c2",
+        "type": "Counter",
+        "line_no": "6",
+        "contains_imports": true
+    },
+    "120-3": {
+        "variable": "l1",
+        "type": "list",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "120-4": {
+        "variable": "l2",
+        "type": "list",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "161-0": {
+        "variable": "result",
+        "type": "map",
+        "line_no": "13",
+        "contains_imports": true
+    },
+    "161-1": {
+        "variable": "nums",
+        "type": "list",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "203-0": {
+        "variable": "result",
+        "type": "tuple",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "203-1": {
+        "variable": "a",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "343-0": {
+        "variable": "students",
+        "type": "dict",
+        "line_no": "6",
+        "contains_imports": true
+    },
+    "312-0": {
+        "variable": "array1",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "312-1": {
+        "variable": "array2",
+        "type": "list",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "155-0": {
+        "variable": "nums",
+        "type": "list",
+        "line_no": "12",
+        "contains_imports": true
+    },
+    "155-1": {
+        "variable": "N",
+        "type": "int",
+        "line_no": "13",
+        "contains_imports": true
+    },
+    "295-0": {
+        "variable": "chars",
+        "type": "list",
+        "line_no": "10",
+        "contains_imports": false
+    },
+    "295-1": {
+        "variable": "spec_index",
+        "type": "int",
+        "line_no": "13",
+        "contains_imports": false
+    },
+    "104-0": {
+        "variable": "day",
+        "type": "function",
+        "line_no": "6",
+        "contains_imports": true
+    },
+    "104-1": {
+        "variable": "year",
+        "type": "function",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "104-2": {
+        "variable": "t",
+        "type": "function",
+        "line_no": "7",
+        "contains_imports": true
+    },
+    "104-3": {
+        "variable": "now",
+        "type": "datetime",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "104-4": {
+        "variable": "month",
+        "type": "function",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "66-0": {
+        "variable": "nums",
+        "type": "list",
+        "line_no": "14",
+        "contains_imports": true
+    },
+    "95-0": {
+        "variable": "j_str",
+        "type": "dict",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "377-0": {
+        "variable": "df2",
+        "type": "DataFrame",
+        "line_no": "14",
+        "contains_imports": true
+    },
+    "377-1": {
+        "variable": "sales_index",
+        "type": "MultiIndex",
+        "line_no": "6",
+        "contains_imports": true
+    },
+    "377-2": {
+        "variable": "sales_arrays",
+        "type": "list",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "377-3": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "9",
+        "contains_imports": true
+    },
+    "377-4": {
+        "variable": "df3",
+        "type": "DataFrame",
+        "line_no": "20",
+        "contains_imports": true
+    },
+    "377-6": {
+        "variable": "sales_tuples",
+        "type": "list",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "237-0": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "237-1": {
+        "variable": "r2",
+        "type": "ndarray",
+        "line_no": "6",
+        "contains_imports": true
+    },
+    "237-2": {
+        "variable": "r1",
+        "type": "ndarray",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "439-0": {
+        "variable": "items",
+        "type": "str",
+        "line_no": "1",
+        "contains_imports": false
+    },
+    "439-1": {
+        "variable": "words",
+        "type": "list",
+        "line_no": "2",
+        "contains_imports": false
+    },
+    "8-0": {
+        "variable": "nums",
+        "type": "list",
+        "line_no": "8",
+        "contains_imports": false
+    },
+    "8-1": {
+        "variable": "x",
+        "type": "int",
+        "line_no": "11",
+        "contains_imports": false
+    },
+    "8-2": {
+        "variable": "chars",
+        "type": "list",
+        "line_no": "16",
+        "contains_imports": false
+    },
+    "8-3": {
+        "variable": "n",
+        "type": "int",
+        "line_no": "12",
+        "contains_imports": false
+    },
+    "419-0": {
+        "variable": "arra_data",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "357-0": {
+        "variable": "nbday",
+        "type": "Timestamp",
+        "line_no": "11",
+        "contains_imports": true
+    },
+    "357-1": {
+        "variable": "newday1",
+        "type": "Timestamp",
+        "line_no": "8",
+        "contains_imports": true
+    },
+    "357-2": {
+        "variable": "newday",
+        "type": "Timestamp",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "217-0": {
+        "variable": "arr",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "306-0": {
+        "variable": "nums",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "46-0": {
+        "variable": "nums",
+        "type": "tuple",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "46-1": {
+        "variable": "nums_dq",
+        "type": "deque",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "124-0": {
+        "variable": "arra_data",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "17-0": {
+        "variable": "nums",
+        "type": "list",
+        "line_no": "6",
+        "contains_imports": false
+    },
+    "17-1": {
+        "variable": "result",
+        "type": "tuple",
+        "line_no": "9",
+        "contains_imports": false
+    },
+    "175-0": {
+        "variable": "list1",
+        "type": "list",
+        "line_no": "11",
+        "contains_imports": false
+    },
+    "81-0": {
+        "variable": "result",
+        "type": "dict",
+        "line_no": "5",
+        "contains_imports": false
+    },
+    "81-1": {
+        "variable": "marks",
+        "type": "dict",
+        "line_no": "1",
+        "contains_imports": false
+    },
+    "272-0": {
+        "variable": "nums",
+        "type": "list",
+        "line_no": "1",
+        "contains_imports": false
+    },
+    "272-1": {
+        "variable": "total_positive_nums",
+        "type": "list",
+        "line_no": "5",
+        "contains_imports": false
+    },
+    "272-2": {
+        "variable": "total_negative_nums",
+        "type": "list",
+        "line_no": "4",
+        "contains_imports": false
+    },
+    "332-0": {
+        "variable": "nums",
+        "type": "list",
+        "line_no": "7",
+        "contains_imports": false
+    },
+    "332-1": {
+        "variable": "result",
+        "type": "tuple",
+        "line_no": "11",
+        "contains_imports": false
+    },
+    "223-0": {
+        "variable": "nums",
+        "type": "ndarray",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "363-0": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "390-0": {
+        "variable": "s",
+        "type": "str",
+        "line_no": "11",
+        "contains_imports": false
+    },
+    "72-0": {
+        "variable": "arra_data",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "100-0": {
+        "variable": "sample_text",
+        "type": "str",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "62-0": {
+        "variable": "num",
+        "type": "list",
+        "line_no": "1",
+        "contains_imports": false
+    },
+    "380-0": {
+        "variable": "items",
+        "type": "list",
+        "line_no": "4",
+        "contains_imports": false
+    },
+    "373-0": {
+        "variable": "r1",
+        "type": "ndarray",
+        "line_no": "6",
+        "contains_imports": true
+    },
+    "373-1": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "373-2": {
+        "variable": "r2",
+        "type": "ndarray",
+        "line_no": "7",
+        "contains_imports": true
+    },
+    "233-0": {
+        "variable": "color",
+        "type": "list",
+        "line_no": "1",
+        "contains_imports": false
+    },
+    "322-0": {
+        "variable": "num1",
+        "type": "str",
+        "line_no": "18",
+        "contains_imports": false
+    },
+    "56-0": {
+        "variable": "days",
+        "type": "filter",
+        "line_no": "2",
+        "contains_imports": false
+    },
+    "56-1": {
+        "variable": "weekdays",
+        "type": "list",
+        "line_no": "1",
+        "contains_imports": false
+    },
+    "256-0": {
+        "variable": "d",
+        "type": "dict",
+        "line_no": "1",
+        "contains_imports": true
+    },
+    "316-0": {
+        "variable": "list1",
+        "type": "list",
+        "line_no": "5",
+        "contains_imports": false
+    },
+    "316-1": {
+        "variable": "list3",
+        "type": "list",
+        "line_no": "7",
+        "contains_imports": false
+    },
+    "316-2": {
+        "variable": "list2",
+        "type": "list",
+        "line_no": "6",
+        "contains_imports": false
+    },
+    "207-0": {
+        "variable": "x",
+        "type": "ndarray",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "207-1": {
+        "variable": "a2",
+        "type": "list",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "207-2": {
+        "variable": "a",
+        "type": "list",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "347-0": {
+        "variable": "df",
+        "type": "DataFrame",
+        "line_no": "5",
+        "contains_imports": true
+    },
+    "347-1": {
+        "variable": "s2",
+        "type": "Series",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "347-2": {
+        "variable": "s1",
+        "type": "Series",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "347-3": {
+        "variable": "s3",
+        "type": "Series",
+        "line_no": "4",
+        "contains_imports": true
+    },
+    "409-0": {
+        "variable": "nums2",
+        "type": "Series",
+        "line_no": "3",
+        "contains_imports": true
+    },
+    "409-1": {
+        "variable": "nums1",
+        "type": "Series",
+        "line_no": "2",
+        "contains_imports": true
+    },
+    "458-0": {
+        "variable": "my_list",
+        "type": "list",
+        "line_no": "1",
+        "contains_imports": false
+    },
+    "458-1": {
+        "variable": "n",
+        "type": "int",
+        "line_no": "2",
+        "contains_imports": false
+    },
+    "458-2": {
+        "variable": "new_list",
+        "type": "list",
+        "line_no": "3",
+        "contains_imports": false
+    }
+}

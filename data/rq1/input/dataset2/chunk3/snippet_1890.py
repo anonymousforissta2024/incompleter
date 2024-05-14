@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/68939178/typeerror-descriptor-strftime-for-datetime-date-objects-doesnt-apply-to-a
+df['timestamp'] = df['timestamp'].apply(lambda x: dt.datetime.strftime(x, '%Y-%m-%d %H:%M:%S'))

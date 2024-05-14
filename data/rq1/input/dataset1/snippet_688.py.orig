@@ -1,0 +1,7 @@
+# Extracted from https://stackoverflow.com/questions/19125722/adding-a-legend-to-pyplot-in-matplotlib-in-the-simplest-manner-possible
+first = [1, 2, 4, 5, 4]
+second = [3, 4, 2, 2, 3]
+plt.plot(first, 'g--', second, 'r--')
+plt.legend(['First List', 'Second List'], loc='upper left')
+plt.show()
+

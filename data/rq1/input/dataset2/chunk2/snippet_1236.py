@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/76004091/nameerror-looking-for-function-when-using-parallel-apply-from-pandarallel
+df_transport_hourly = df_db_transport.groupby(['siteId', 'port', 'systemName', df_db_transport['startedAt'].dt.date, df_db_transport['startedAt'].dt.hour]).parallel_apply(lambda x: calc_transport(x, 'h'))

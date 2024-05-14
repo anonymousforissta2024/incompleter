@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/60431962/django-attributeerror-when-trying-to-add-an-object-to-a-manytomanyfield
+friends = models.ManyToManyField(User,blank=True,related_name='user_connections')

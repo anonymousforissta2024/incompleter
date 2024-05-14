@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/70060568/attributeerror-dataframe-object-has-no-attribute-dataframe-analisis-sentime
+tweet2 = tweet.DataFrame(text, columns= ['full_text', 'clean_tweets','sentiment'])

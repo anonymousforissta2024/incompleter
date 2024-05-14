@@ -1,0 +1,12 @@
+import pandas as pd
+pd.set_option('display.max_rows', None)
+print('Original DataFrame:')
+print(student_data)
+print('\nSplit the said data on school_code wise:')
+grouped_single = student_data.groupby(['school_code'])
+print('Size of the grouped data - single column')
+print(grouped_single.size())
+print('\nSplit the said data on school_code and class wise:')
+grouped_mul = student_data.groupby(['school_code', 'class'])
+print('Size of the grouped data - multiple columns:')
+print(grouped_mul.size())

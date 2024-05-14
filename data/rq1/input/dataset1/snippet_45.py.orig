@@ -1,0 +1,29 @@
+# Extracted from https://stackoverflow.com/questions/30081275/why-is-1000000000000000-in-range1000000000000001-so-fast-in-python-3
+a = range(5)
+print(list(a))
+[0, 1, 2, 3, 4]
+print(list(a))
+[0, 1, 2, 3, 4]
+
+b = my_crappy_range(5)
+print(list(b))
+[0, 1, 2, 3, 4]
+print(list(b))
+[]
+
+import collections.abc
+isinstance(a, collections.abc.Sequence)
+True
+
+a[3]         # indexable
+3
+len(a)       # sized
+5
+3 in a       # membership
+True
+reversed(a)  # reversible
+a.index(3)   # implements 'index'
+3
+a.count(3)   # implements 'count'
+1
+

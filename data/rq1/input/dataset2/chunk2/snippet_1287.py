@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/77469949/model-fit-typeerror-nonetype-object-is-not-callable
+model.compile(optimizer='Adam', loss="categorical_crossentropy", metrics=['categorical accuracy'])

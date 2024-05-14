@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/60592456/attributeerror-resultset-object-has-no-attribute-get-text-youre-probably-tr
+details = [i.find_all('span', {'class':re.compile('item')}) for i in cars]

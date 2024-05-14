@@ -1,0 +1,4 @@
+# Extracted from https://stackoverflow.com/questions/509211/understanding-slicing
+a[start:end:step]
+# for(i = start; i < end; i += step)
+

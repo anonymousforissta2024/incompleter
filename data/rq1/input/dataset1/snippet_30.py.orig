@@ -1,0 +1,6 @@
+# Extracted from https://stackoverflow.com/questions/53513/how-do-i-check-if-a-list-is-empty
+not a
+
+if isinstance(a, list) and len(a)==0:
+    print("Received an empty list")
+

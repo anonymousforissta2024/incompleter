@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/65725644/typeerror-invalid-type-promotion-when-concatenating-two-numpy-arrays
+com_interpolated_matrix = np.concatenate((time_vector, interpolated_matrix), axis=1)

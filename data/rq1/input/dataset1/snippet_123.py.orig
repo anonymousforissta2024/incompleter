@@ -1,0 +1,7 @@
+# Extracted from https://stackoverflow.com/questions/1549801/what-are-the-differences-between-type-and-isinstance
+if isinstance(b, (str, unicode)):
+    do_something_else()
+
+if isinstance(b, basestring):
+    do_something_else()
+

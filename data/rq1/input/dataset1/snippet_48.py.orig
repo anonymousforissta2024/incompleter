@@ -1,0 +1,11 @@
+# Extracted from https://stackoverflow.com/questions/11277432/how-can-i-remove-a-key-from-a-python-dictionary
+try: 
+    del dict[key]
+
+except KeyError: pass
+
+my_dict.pop('key', None)
+
+if 'key' in dict: 
+    del myDict['key']
+

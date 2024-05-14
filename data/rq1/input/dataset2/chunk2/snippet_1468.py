@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/61032648/typeerror-not-supported-between-instances-of-set-and-tuple
+print(reduce(lambda x,y: x<y, set(list(map(tuple,list1))), set(list(map(tuple,list2)))))

@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/66497772/attributeerror-home-hp-anaconda3-lib-libxgboost-so-undefined-symbol-xgdmatri
+clf = GridSearchCV(estimator=xgb.XGBClassifier(use_label_encoder =False), param_grid=params, scoring = 'accuracy', cv=20).fit(data_train, label_train)

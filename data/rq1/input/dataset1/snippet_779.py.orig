@@ -1,0 +1,7 @@
+# Extracted from https://stackoverflow.com/questions/4789837/how-to-terminate-a-python-subprocess-launched-with-shell-true
+if isinstance(command, unicode):
+    cmd = command.encode('utf8')
+args = shlex.split(cmd)
+
+p = subprocess.Popen(args, stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
+

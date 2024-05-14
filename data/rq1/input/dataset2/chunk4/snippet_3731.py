@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/41173747/program-is-returning-the-following-typeerror-cant-convert-int-object-to-str
+output[column] = output['Index_for_s'].apply(lambda x: s(x, column, file_two))

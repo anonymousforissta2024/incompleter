@@ -1,0 +1,13 @@
+#Source: https://stackoverflow.com/questions/16431769/python-3-3-console-nameerror
+print ("*~~~~~~~~~~~~~~~~~~~~~*")
+print ("*|Welcome to the Game|*")
+print ("*~~~~~~~~~~~~~~~~~~~~~*")
+print ("")
+time.sleep(1)
+User_name = input ("What is your Name? ")
+time.sleep(1)
+print ("Welcome",User_name," enter irrelevant story information here")
+print("more irrelevant story here.")
+print ("more irrelevant story here")
+print ("")
+time.sleep (1)

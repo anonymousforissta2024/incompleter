@@ -1,0 +1,7 @@
+# Extracted from https://stackoverflow.com/questions/3289601/null-object-in-python
+if yourObject is None:  # if yourObject == None:
+    ...
+
+if yourString == "":  # if yourString.len() == 0:
+    ...
+

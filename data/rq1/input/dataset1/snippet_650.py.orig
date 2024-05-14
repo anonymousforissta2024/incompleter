@@ -1,0 +1,13 @@
+# Extracted from https://stackoverflow.com/questions/5658369/how-to-input-a-regex-in-string-replace
+import re
+line = re.sub(r"</?\[\d+>", "", line)
+
+line = re.sub(r"""
+  (?x) # Use free-spacing mode.
+  <    # Match a literal '<'
+  /?   # Optionally match a '/'
+  \[   # Match a literal '['
+  \d+  # Match one or more digits
+  >    # Match a literal '>'
+  """, "", line)
+

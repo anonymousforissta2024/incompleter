@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/72760543/typeerror-after-processing-last-row-using-apply-with-lambda-using-function-retur
+dfSentence["sen_vals"] = dfSentence["senwords"].apply(lambda sentense: set_values(sentence))

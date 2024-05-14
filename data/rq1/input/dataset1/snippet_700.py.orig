@@ -1,0 +1,4 @@
+# Extracted from https://stackoverflow.com/questions/1186789/what-is-the-best-way-to-call-a-script-from-another-script
+if condition:
+       import recommend
+

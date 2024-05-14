@@ -1,0 +1,26 @@
+# Extracted from https://stackoverflow.com/questions/276052/how-to-get-current-cpu-and-ram-usage-in-python
+import os
+import re
+
+CUT_OFF = 90
+
+def get_cpu_load():
+    cmd = "ps -Ao user,uid,comm,pid,pcpu --sort=-pcpu | head -n 2 | tail -1"
+    response = os.popen(cmd, 'r').read()
+    arr = re.findall(r'\S+', response)
+    print(arr)
+    needKill = float(arr[-1]) > CUT_OFF
+    if needKill:
+        r = os.popen(f"kill -9 {arr[-2]}")
+        print('kill:', r)
+
+if __name__ == '__main__':
+    # Test CPU with 
+    # $ stress --cpu 1
+    # crontab -e
+    # Every 1 min
+    # */1 * * * * sh dog.sh
+    # ctlr o, ctlr x
+    # crontab -l
+    print(get_cpu_load())
+

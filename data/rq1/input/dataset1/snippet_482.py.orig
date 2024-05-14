@@ -1,0 +1,9 @@
+# Extracted from https://stackoverflow.com/questions/306313/is-operator-behaves-unexpectedly-with-integers
+class Unequal:
+    def __eq__(self, other):
+        return False
+
+import numpy, numbers
+assert not issubclass(numpy.int16,numbers.Number)
+assert issubclass(int,numbers.Number)
+

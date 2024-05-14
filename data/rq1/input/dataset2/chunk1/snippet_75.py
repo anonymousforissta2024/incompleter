@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/64241141/how-to-solve-typeerror-sequence-item-0-expected-str-instance-float-found
+docs_per_topic = docs_df.groupby(['Topic'], as_index = False).agg({'Doc': ' '.join})

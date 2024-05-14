@@ -1,0 +1,4 @@
+# Extracted from https://stackoverflow.com/questions/2802726/putting-a-simple-if-then-else-statement-on-one-line
+
+count = 0 if count == N else N + 1
+

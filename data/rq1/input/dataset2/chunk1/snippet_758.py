@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/54671752/why-does-glmnet-py-throw-a-typeerror-at-cvglmnet-when-i-provide-floats-if-glmne
+cvfit = cvglmnet(x = fold1_sp.copy(), y = np.float64(y.values), family = 'binomial', ptype = 'class')

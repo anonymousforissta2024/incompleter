@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/68850727/how-to-get-resolve-of-attribute-error-when-web-scraping-google-for-wind-speed
+current_weather['wind']=soup.find("span",attrs={"id": "wob_ws"}).text

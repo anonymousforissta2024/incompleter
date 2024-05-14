@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/64679139/nameerror-name-open-is-not-defined-when-trying-to-log-to-files
+logging.basicConfig(filename="../logs/bot.log", filemode="a", format="%(asctime)s %(name)-30s %(levelname)-8s %(message)s", level=logging.DEBUG)

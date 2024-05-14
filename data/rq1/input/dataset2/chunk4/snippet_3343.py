@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/21210014/typeerror-unsupported-operand-types-for-builtin-function-or-method-and
+screen.blit(spongebob_pic,(int(mx-(spongebob_pic.get_width//2)),int(my-(spongebob_pic.height//2))))

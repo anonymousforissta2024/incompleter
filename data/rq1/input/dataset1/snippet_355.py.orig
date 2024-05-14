@@ -1,0 +1,21 @@
+# Extracted from https://stackoverflow.com/questions/5893163/what-is-the-purpose-of-the-single-underscore-variable-in-python
+10 
+10
+
+_ 
+10
+
+_ * 3 
+30
+
+x, _, y = (1, 2, 3)
+
+x
+1
+
+y 
+3
+
+for _ in range(10):     
+    do_something()
+

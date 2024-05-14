@@ -1,0 +1,4 @@
+# Extracted from https://stackoverflow.com/questions/403421/how-to-sort-a-list-of-objects-based-on-an-attribute-of-the-objects
+from operator import attrgetter
+ut.sort(key = attrgetter('count'), reverse = True)
+

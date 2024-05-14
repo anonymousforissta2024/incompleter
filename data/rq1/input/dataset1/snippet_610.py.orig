@@ -1,0 +1,4 @@
+# Extracted from https://stackoverflow.com/questions/3012488/what-is-the-python-with-statement-designed-for
+with open("foo.txt") as file:
+    data = file.read()
+

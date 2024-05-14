@@ -1,0 +1,7 @@
+# Extracted from https://stackoverflow.com/questions/701802/how-do-i-execute-a-string-containing-python-code-in-python
+kw = {}
+exec( "ret = 4" ) in kw
+kw['ret']
+
+4
+

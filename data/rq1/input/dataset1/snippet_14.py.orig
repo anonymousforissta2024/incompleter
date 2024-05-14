@@ -1,0 +1,9 @@
+# Extracted from https://stackoverflow.com/questions/3294889/iterating-over-dictionaries-using-for-loops
+cat  = {'name': 'Snowy', 'color': 'White' ,'age': 14}
+for key , value in cat.items():
+   print(key, ': ', value)
+
+name:  Snowy
+color:  White
+age:  14
+

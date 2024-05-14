@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/57876549/typeerror-unsupported-operand-types-for-str-and-str-when-passing-two-d
+date = [start + datetime.timedelta(days=x) for x in range(0, (end - start).days + 1)]

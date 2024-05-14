@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/40500717/typeerror-cant-pickle-generator-objects-for-non-generator-methods
+Parallel(n_jobs=self.n_jobs, verbose=1)(delayed(CrossValidation.checkProcess, check_pickle=False)(param_set, x_train, y_train, x_test, y_test, scores) for param_set in param_combinations)

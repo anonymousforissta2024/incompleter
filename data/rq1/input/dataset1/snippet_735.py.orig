@@ -1,0 +1,4 @@
+# Extracted from https://stackoverflow.com/questions/26763344/convert-pandas-column-to-datetime
+import pandas as pd
+raw_data['Mycol'] =  pd.to_datetime(raw_data['Mycol'], infer_datetime_format=True)
+

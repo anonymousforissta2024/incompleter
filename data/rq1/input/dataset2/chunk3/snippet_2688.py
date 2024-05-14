@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/61284995/getting-typeerror-if-no-direction-is-specified-key-or-list-must-be-an-instance
+db.foo.ensure_index(('field_i_want_to_index', 'text'), name="search_index")

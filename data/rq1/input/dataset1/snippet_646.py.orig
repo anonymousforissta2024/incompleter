@@ -1,0 +1,9 @@
+# Extracted from https://stackoverflow.com/questions/21494489/what-does-numpy-random-seed0-do
+np.random.seed(2)
+np.random.randn(2) # array([-0.41675785, -0.05626683])
+np.random.randn(1) # array([-1.24528809])
+
+np.random.seed(2)
+np.random.randn(1) # array([-0.41675785])
+np.random.randn(2) # array([-0.05626683, -1.24528809])
+

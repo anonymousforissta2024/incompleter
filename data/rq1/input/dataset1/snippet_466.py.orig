@@ -1,0 +1,10 @@
+# Extracted from https://stackoverflow.com/questions/4186062/sqlalchemy-order-by-descending
+session = Session()
+auth_client_name = 'client3' 
+result_by_auth_client = session.query(ClientTotal).filter(ClientTotal.client ==
+auth_client_name).order_by(ClientTotal.id.desc()).all()
+
+for rbac in result_by_auth_client:
+    print(rbac.id) 
+session.close()
+

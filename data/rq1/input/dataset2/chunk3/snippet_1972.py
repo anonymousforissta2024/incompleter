@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/48778836/typeerror-object-of-type-nonetype-has-no-len-when-using-pd-read-excel
+energy = pd.read_excel('Energy indicators.xls', sheetname='Energy', header=16, skip_footer=246, index_col=2, na_values='...')

@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/71229192/attributeerror-str-object-has-no-attribute-draw-path
+plt.savefig(f"{payload['p_dict']['chartPath']}{payload['p_dict']['fileName']}", **payload['k_dict']['k_plot_fig'])

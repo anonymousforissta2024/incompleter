@@ -1,0 +1,8 @@
+# Extracted from https://stackoverflow.com/questions/12400256/converting-epoch-time-into-the-datetime
+datetime.datetime.fromtimestamp(1347517370)
+
+datetime.datetime.utcfromtimestamp(1347517370)
+
+datetime.datetime.fromtimestamp(1347517370).strftime('%Y-%m-%d %H:%M:%S')
+datetime.datetime.utcfromtimestamp(1347517370).strftime('%Y-%m-%d %H:%M:%S')
+

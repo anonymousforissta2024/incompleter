@@ -1,0 +1,24 @@
+# Extracted from https://stackoverflow.com/questions/8933237/how-do-i-check-if-directory-exists-in-python
+from pathlib import Path
+Path("/my/directory").mkdir(parents=True, exist_ok=True)
+
+import os
+if not os.path.exists(directory):
+    os.makedirs(directory)
+
+import os, errno
+
+try:
+    os.makedirs(directory)
+except OSError as e:
+    if e.errno != errno.EEXIST:
+        raise
+
+try:
+    os.makedirs("path/to/directory")
+except FileExistsError:
+    # directory already exists
+    pass
+
+os.makedirs("path/to/directory", exist_ok=True)  # succeeds even if directory exists.
+

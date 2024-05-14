@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/75258840/attributeerror-list-object-has-no-attribute-find-element-selenium-driver
+repo_closed_url = [link.get_attribute('href') for link in driver.find_elements(By.XPATH,'//div[@aria-label="Issues"]').find_element(By.CLASS_NAME,'h4')]

@@ -1,0 +1,11 @@
+# Extracted from https://stackoverflow.com/questions/34162443/why-do-many-examples-use-fig-ax-plt-subplots-in-matplotlib-pyplot-python
+import matplotlib.pyplot as plt
+
+# global state version - modifies "current" figure
+plt.plot(...)
+plt.xlabel(...)
+
+# axes version - modifies explicit axes
+ax.plot(...)
+ax.set_xlabel(...)
+

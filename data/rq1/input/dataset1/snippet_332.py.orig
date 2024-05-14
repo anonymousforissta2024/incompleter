@@ -1,0 +1,25 @@
+# Extracted from https://stackoverflow.com/questions/29576430/shuffle-dataframe-rows
+np.random.shuffle(DataFrame.values)
+
+nd = sklearn.utils.shuffle(nd)
+
+np.random.shuffle(nd)
+
+df = sklearn.utils.shuffle(df)
+
+np.random.shuffle(df.values)
+
+import timeit
+setup = '''
+import numpy as np
+import pandas as pd
+import sklearn
+nd = np.random.random((1000, 100))
+df = pd.DataFrame(nd)
+'''
+
+timeit.timeit('nd = sklearn.utils.shuffle(nd)', setup=setup, number=1000)
+timeit.timeit('np.random.shuffle(nd)', setup=setup, number=1000)
+timeit.timeit('df = sklearn.utils.shuffle(df)', setup=setup, number=1000)
+timeit.timeit('np.random.shuffle(df.values)', setup=setup, number=1000)
+

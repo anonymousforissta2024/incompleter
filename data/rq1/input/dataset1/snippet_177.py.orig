@@ -1,0 +1,38 @@
+# Extracted from https://stackoverflow.com/questions/3768895/how-to-make-a-class-json-serializable
+import json
+
+json.dumps(your_object, default=lambda __o: __o.__dict__)
+
+import json
+from dataclasses import dataclass
+
+
+@dataclass
+class Company:
+    id: int
+    name: str
+
+@dataclass
+class User:
+    id: int
+    name: str
+    email: str
+    company: Company
+
+
+company = Company(id=1, name="Example Ltd")
+user = User(id=1, name="John Doe", email="john@doe.net", company=company)
+
+
+json.dumps(user, default=lambda __o: __o.__dict__)
+
+{
+  "id": 1, 
+  "name": "John Doe", 
+  "email": "john@doe.net", 
+  "company": {
+    "id": 1, 
+    "name": "Example Ltd"
+  }
+}
+

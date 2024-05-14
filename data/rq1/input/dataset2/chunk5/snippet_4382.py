@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/54514394/typeerror-normalize-argument-2-must-be-str-not-series-with-a-dataframe-of-st
+sentence = df_news.loc[date, 'name'].apply(lambda x: unicodedata.normalize('NFKD', x).encode('ascii','ignore'))

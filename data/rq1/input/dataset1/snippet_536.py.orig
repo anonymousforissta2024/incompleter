@@ -1,0 +1,6 @@
+# Extracted from https://stackoverflow.com/questions/546321/how-do-i-calculate-the-date-six-months-from-the-current-date-using-the-datetime
+from datetime import timedelta
+from dateutil.relativedelta import relativedelta
+
+end_date = start_date + relativedelta(months=delta_period) + timedelta(days=-delta_period)
+

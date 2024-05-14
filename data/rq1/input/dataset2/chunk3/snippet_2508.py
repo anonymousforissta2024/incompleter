@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/49515999/list-comprehension-typeerror
+new_list = [re.sub(r'in_content_1', r'in_content_2', i) for i in foo_list if re.findall(r'content_name', i, re.M) not in i]

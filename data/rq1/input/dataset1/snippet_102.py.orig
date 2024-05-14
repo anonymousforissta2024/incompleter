@@ -1,0 +1,7 @@
+# Extracted from https://stackoverflow.com/questions/209840/how-can-i-make-a-dictionary-dict-from-separate-lists-of-keys-and-values
+dict = {item : values[index] for index, item in enumerate(keys)}
+
+dict = {}
+for index, item in enumerate(keys):
+    dict[item] = values[index]
+

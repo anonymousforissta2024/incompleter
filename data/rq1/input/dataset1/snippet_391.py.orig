@@ -1,0 +1,18 @@
+# Extracted from https://stackoverflow.com/questions/5191830/how-do-i-log-a-python-error-with-debug-information
+import logging
+from contextlib import AbstractContextManager
+
+
+class LogError(AbstractContextManager):
+
+    def __init__(self, logger=None):
+        self.logger = logger.name if isinstance(logger, logging.Logger) else logger
+
+    def __exit__(self, exc_type, exc_value, traceback):
+        if exc_value is not None:
+            logging.getLogger(self.logger).exception(exc_value)
+
+
+with LogError():
+    1/0
+

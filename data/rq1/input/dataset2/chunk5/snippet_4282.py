@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/48926763/typeerror-tuple-object-does-not-support-item-assignment-np-append
+v_coordinates[1][127][0]=np.append(v_coordinates[1][127][0],v_coordinates[1][14][0][3])# Here l get the error TypeError: 'tuple' object does not support item assignment

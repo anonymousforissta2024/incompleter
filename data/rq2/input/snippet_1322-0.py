@@ -1,0 +1,10 @@
+import numpy as np
+print('Original array:')
+print(x)
+print('Unique elements of the above array:')
+print(np.unique(x))
+x = np.array([[1, 1], [2, 3]])
+print('Original array:')
+print(x)
+print('Unique elements of the above array:')
+print(np.unique(x))

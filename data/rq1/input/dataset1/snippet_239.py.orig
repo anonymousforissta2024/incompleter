@@ -1,0 +1,15 @@
+# Extracted from https://stackoverflow.com/questions/4843173/how-to-check-if-type-of-a-variable-is-string
+import six
+
+if isinstance(value, six.string_types):
+    pass # It's a string !!
+
+import sys
+
+PY3 = sys.version_info[0] == 3
+
+if PY3:
+    string_types = str,
+else:
+    string_types = basestring,
+

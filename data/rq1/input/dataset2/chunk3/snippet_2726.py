@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/53424382/panda-lambda-typeerror-object-float-no-len
+df['RatioFraction'] = df_ff_reviews['VoteRatio'].apply(lambda x: np.nan if x == '0/0' else df['RatioFraction'])

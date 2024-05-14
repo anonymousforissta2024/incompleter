@@ -1,0 +1,1358 @@
+{
+  "412-1": {
+    "df": "DataFrame"
+  },
+  "56-1": {
+    "weekdays": "list"
+  },
+  "20-2": {
+    "color1": "list"
+  },
+  "456-0": {
+    "nums_arr": "list"
+  },
+  "12-0": {
+    "new_nums": "dict"
+  },
+  "106-0": {
+    "str1": "str"
+  },
+  "142-1": {
+    "students": "list"
+  },
+  "276-0": {
+    "nums1": "list"
+  },
+  "250-2": {
+    "x": "int"
+  },
+  "8-0": {
+    "nums": "list"
+  },
+  "112-0": {
+    "student": "list"
+  },
+  "438-0": {
+    "x": "ndarray"
+  },
+  "316-2": {
+    "list2": "list"
+  },
+  "397-0": {
+    "thbday": "object"
+  },
+  "295-1": {
+    "spec_index": "int"
+  },
+  "193-2": {
+    "d4": "list"
+  },
+  "168-0": {
+    "x": "ndarray"
+  },
+  "218-0": {
+    "x": "int"
+  },
+  "42-1": {
+    "new_array1": "ndarray"
+  },
+  "177-1": {
+    "color1": "list"
+  },
+  "19-1": {
+    "x": "int"
+  },
+  "207-1": {
+    "a2": "list"
+  },
+  "15-2": {
+    "df": "dict"
+  },
+  "463-0": {
+    "nums1": "list"
+  },
+  "149-0": {
+    "X": "ndarray"
+  },
+  "27-0": {
+    "new_s": "Series"
+  },
+  "239-0": {
+    "n_list": "list"
+  },
+  "17-0": {
+    "nums": "list"
+  },
+  "3-1": {
+    "new_num": "list"
+  },
+  "477-0": {
+    "df": "str"
+  },
+  "194-0": {
+    "students": "list"
+  },
+  "49-0": {
+    "nums1": "list"
+  },
+  "347-0": {
+    "df": "DataFrame"
+  },
+  "171-0": {
+    "list1": "list"
+  },
+  "303-1": {
+    "y": "int"
+  },
+  "26-0": {
+    "nums_x": "dict"
+  },
+  "21-1": {
+    "result": "list"
+  },
+  "435-0": {
+    "a": "ndarray"
+  },
+  "329-0": {
+    "student": "dict"
+  },
+  "471-1": {
+    "df": "DataFrame"
+  },
+  "215-0": {
+    "result": "ndarray"
+  },
+  "298-1": {
+    "b": "int"
+  },
+  "50-0": {
+    "df": "dict"
+  },
+  "250-0": {
+    "nums": "list"
+  },
+  "287-0": {
+    "df": "dict"
+  },
+  "385-1": {
+    "y": "list"
+  },
+  "450-1": {
+    "array2": "list"
+  },
+  "499-1": {
+    "result": "ndarray"
+  },
+  "234-0": {
+    "x": "list"
+  },
+  "372-0": {
+    "np_array": "ndarray"
+  },
+  "114-1": {
+    "new_nums": "object"
+  },
+  "220-0": {
+    "a": "ndarray"
+  },
+  "118-2": {
+    "result": "object"
+  },
+  "432-2": {
+    "c": "ndarray"
+  },
+  "44-0": {
+    "nums": "ndarray"
+  },
+  "465-0": {
+    "result": "str"
+  },
+  "379-0": {
+    "nums1": "list"
+  },
+  "21-0": {
+    "nums": "list"
+  },
+  "135-0": {
+    "df": "dict"
+  },
+  "69-2": {
+    "r1": "ndarray"
+  },
+  "303-0": {
+    "x": "int"
+  },
+  "171-1": {
+    "color1": "list"
+  },
+  "298-0": {
+    "a": "int"
+  },
+  "209-2": {
+    "df": "DataFrame"
+  },
+  "251-0": {
+    "result": "ndarray"
+  },
+  "35-0": {
+    "result": "ndarray"
+  },
+  "270-0": {
+    "array_num": "dict"
+  },
+  "372-1": {
+    "df": "DataFrame"
+  },
+  "477-1": {
+    "result": "DataFrame"
+  },
+  "100-0": {
+    "sample_text": "str"
+  },
+  "304-2": {
+    "N": "int"
+  },
+  "234-1": {
+    "new_data": "int"
+  },
+  "450-0": {
+    "array1": "list"
+  },
+  "308-1": {
+    "input_string": "str"
+  },
+  "322-0": {
+    "num1": "str"
+  },
+  "199-1": {
+    "array_num": "object"
+  },
+  "276-1": {
+    "nums3": "list"
+  },
+  "248-0": {
+    "array_num": "object"
+  },
+  "12-1": {
+    "nums": "ndarray"
+  },
+  "456-1": {
+    "result": "int"
+  },
+  "56-0": {
+    "days": "list"
+  },
+  "138-0": {
+    "nums": "list"
+  },
+  "412-0": {
+    "result": "object"
+  },
+  "406-0": {
+    "x": "str"
+  },
+  "70-2": {
+    "texts": "list"
+  },
+  "42-0": {
+    "q": "int"
+  },
+  "193-3": {
+    "d1": "list"
+  },
+  "295-0": {
+    "chars": "list"
+  },
+  "377-4": {
+    "df3": "DataFrame"
+  },
+  "214-2": {
+    "list2": "list"
+  },
+  "8-1": {
+    "x": "int"
+  },
+  "438-1": {
+    "y": "ndarray"
+  },
+  "120-3": {
+    "l1": "list"
+  },
+  "226-0": {
+    "str1": "str"
+  },
+  "180-0": {
+    "result": "Series"
+  },
+  "156-0": {
+    "x": "int"
+  },
+  "360-0": {
+    "a2": "ndarray"
+  },
+  "239-1": {
+    "result": "list"
+  },
+  "427-0": {
+    "s": "Series"
+  },
+  "27-1": {
+    "n": "int"
+  },
+  "48-0": {
+    "df": "DataFrame"
+  },
+  "149-1": {
+    "Y": "ndarray"
+  },
+  "463-1": {
+    "nums2": "list"
+  },
+  "207-0": {
+    "x": "ndarray"
+  },
+  "19-0": {
+    "y": "int"
+  },
+  "341-0": {
+    "key": "str"
+  },
+  "494-0": {
+    "L": "ndarray"
+  },
+  "177-0": {
+    "color2": "list"
+  },
+  "221-2": {
+    "r1": "ndarray"
+  },
+  "49-1": {
+    "nums2": "list"
+  },
+  "269-0": {
+    "array_2D": "ndarray"
+  },
+  "433-0": {
+    "df": "dict"
+  },
+  "119-0": {
+    "items": "singly_linked_list"
+  },
+  "3-0": {
+    "num": "list"
+  },
+  "77-0": {
+    "students": "list"
+  },
+  "104-4": {
+    "month": "callable"
+  },
+  "113-0": {
+    "new_array": "ndarray"
+  },
+  "439-0": {
+    "items": "str"
+  },
+  "9-0": {
+    "result": "ndarray"
+  },
+  "263-0": {
+    "result": "ndarray"
+  },
+  "219-0": {
+    "colors_list": "list"
+  },
+  "407-1": {
+    "colors": "list"
+  },
+  "396-0": {
+    "df": "dict"
+  },
+  "471-2": {
+    "df1": "DataFrame"
+  },
+  "169-0": {
+    "nums": "Series"
+  },
+  "379-2": {
+    "nums2": "list"
+  },
+  "457-0": {
+    "str1": "str"
+  },
+  "465-2": {
+    "char": "str"
+  },
+  "382-0": {
+    "result": "str"
+  },
+  "277-0": {
+    "ctr": "int"
+  },
+  "302-1": {
+    "nums1": "list"
+  },
+  "331-0": {
+    "df": "dict"
+  },
+  "317-1": {
+    "d2": "dict"
+  },
+  "268-1": {
+    "nums2": "list"
+  },
+  "118-1": {
+    "result1": "object"
+  },
+  "374-0": {
+    "df": "DataFrame"
+  },
+  "26-2": {
+    "nums_copy": "dict"
+  },
+  "310-0": {
+    "my_tuple": "list"
+  },
+  "288-4": {
+    "char_list": "list"
+  },
+  "418-0": {
+    "nums1": "list"
+  },
+  "304-0": {
+    "result": "list"
+  },
+  "206-1": {
+    "y": "int"
+  },
+  "495-1": {
+    "chars": "list"
+  },
+  "238-0": {
+    "color1": "list"
+  },
+  "61-0": {
+    "result": "dict"
+  },
+  "148-0": {
+    "s": "Series"
+  },
+  "193-1": {
+    "d2": "list"
+  },
+  "397-3": {
+    "tbday": "object"
+  },
+  "434-0": {
+    "colors": "list"
+  },
+  "250-1": {
+    "num_position": "int"
+  },
+  "299-1": {
+    "student_data": "DataFrame"
+  },
+  "120-1": {
+    "c1": "object"
+  },
+  "214-0": {
+    "list1": "list"
+  },
+  "87-1": {
+    "df": "dict"
+  },
+  "156-1": {
+    "L": "list"
+  },
+  "316-1": {
+    "list3": "list"
+  },
+  "159-0": {
+    "nums": "list"
+  },
+  "8-3": {
+    "n": "int"
+  },
+  "78-1": {
+    "n": "int"
+  },
+  "170-0": {
+    "rand_num": "ndarray"
+  },
+  "64-0": {
+    "students": "dict"
+  },
+  "20-1": {
+    "color2": "list"
+  },
+  "115-1": {
+    "new_array": "ndarray"
+  },
+  "401-0": {
+    "l": "list"
+  },
+  "386-2": {
+    "df": "DataFrame"
+  },
+  "45-0": {
+    "str_list1": "list"
+  },
+  "445-1": {
+    "odd_nums": "list"
+  },
+  "286-0": {
+    "items": "doubly_linked_list"
+  },
+  "309-0": {
+    "items": "doubly_linked_list"
+  },
+  "207-2": {
+    "a": "list"
+  },
+  "57-0": {
+    "df": "DataFrame"
+  },
+  "8-2": {
+    "chars": "list"
+  },
+  "214-1": {
+    "list3": "list"
+  },
+  "316-0": {
+    "list1": "list"
+  },
+  "120-0": {
+    "diff": "object"
+  },
+  "487-1": {
+    "result": "list"
+  },
+  "34-0": {
+    "students": "dict"
+  },
+  "397-2": {
+    "nbday": "object"
+  },
+  "470-0": {
+    "color": "dict"
+  },
+  "18-1": {
+    "k": "int"
+  },
+  "193-0": {
+    "d3": "list"
+  },
+  "187-0": {
+    "x": "ndarray"
+  },
+  "439-1": {
+    "words": "list"
+  },
+  "20-0": {
+    "color3": "list"
+  },
+  "456-2": {
+    "nums": "list"
+  },
+  "276-2": {
+    "nums2": "list"
+  },
+  "493-1": {
+    "new_array": "ndarray"
+  },
+  "244-0": {
+    "x": "dict"
+  },
+  "390-0": {
+    "s": "list"
+  },
+  "445-0": {
+    "odd_deque": "list"
+  },
+  "45-1": {
+    "l": "int"
+  },
+  "471-0": {
+    "df2": "DataFrame"
+  },
+  "180-1": {
+    "df": "DataFrame"
+  },
+  "367-1": {
+    "p": "str"
+  },
+  "323-0": {
+    "s": "list"
+  },
+  "221-1": {
+    "r2": "ndarray"
+  },
+  "115-0": {
+    "array_nums": "ndarray"
+  },
+  "337-0": {
+    "students": "dict"
+  },
+  "235-1": {
+    "new_array": "ndarray"
+  },
+  "463-2": {
+    "result": "list"
+  },
+  "407-0": {
+    "remove_colors": "list"
+  },
+  "361-0": {
+    "mtp": "object"
+  },
+  "113-1": {
+    "nums1": "int"
+  },
+  "69-1": {
+    "r2": "ndarray"
+  },
+  "277-1": {
+    "num": "list"
+  },
+  "139-0": {
+    "nums": "list"
+  },
+  "249-0": {
+    "list1": "list"
+  },
+  "280-0": {
+    "nums": "list"
+  },
+  "382-1": {
+    "text_list": "list"
+  },
+  "310-1": {
+    "my_list": "list"
+  },
+  "81-0": {
+    "result": "dict"
+  },
+  "81-1": {
+    "marks": "dict"
+  },
+  "76-0": {
+    "df": "dict"
+  },
+  "476-1": {
+    "result": "list"
+  },
+  "268-0": {
+    "nums1": "list"
+  },
+  "426-0": {
+    "str1": "str"
+  },
+  "389-0": {
+    "data": "list"
+  },
+  "340-0": {
+    "array_nums": "list"
+  },
+  "495-0": {
+    "nums": "list"
+  },
+  "304-1": {
+    "list_str": "list"
+  },
+  "85-0": {
+    "payload": "dict"
+  },
+  "206-0": {
+    "x": "int"
+  },
+  "418-1": {
+    "nums2": "list"
+  },
+  "371-3": {
+    "styles": "list"
+  },
+  "496-1": {
+    "result": "object"
+  },
+  "92-0": {
+    "df": "DataFrame"
+  },
+  "288-0": {
+    "df": "DataFrame"
+  },
+  "131-0": {
+    "l2": "list"
+  },
+  "131-1": {
+    "l1": "list"
+  },
+  "205-1": {
+    "r1": "object"
+  },
+  "461-0": {
+    "x": "int"
+  },
+  "453-2": {
+    "string_words": "str"
+  },
+  "61-1": {
+    "student_data": "dict"
+  },
+  "475-0": {
+    "pi_val": "object"
+  },
+  "82-0": {
+    "uno_list": "list"
+  },
+  "354-0": {
+    "df": "DataFrame"
+  },
+  "313-0": {
+    "my_dict": "dict"
+  },
+  "357-1": {
+    "newday1": "object"
+  },
+  "454-0": {
+    "df": "dict"
+  },
+  "348-0": {
+    "my_nums": "list"
+  },
+  "104-0": {
+    "day": "callable"
+  },
+  "274-0": {
+    "nums": "list"
+  },
+  "260-0": {
+    "ctr": "int"
+  },
+  "256-0": {
+    "d": "dict"
+  },
+  "395-0": {
+    "x": "ndarray"
+  },
+  "366-0": {
+    "df": "DataFrame"
+  },
+  "440-0": {
+    "items": "singly_linked_list"
+  },
+  "338-2": {
+    "n": "object"
+  },
+  "272-1": {
+    "total_positive_nums": "list"
+  },
+  "28-0": {
+    "nums": "list"
+  },
+  "356-2": {
+    "bases_num": "list"
+  },
+  "160-2": {
+    "str2": "str"
+  },
+  "258-0": {
+    "items": "doubly_linked_list"
+  },
+  "46-0": {
+    "nums": "list"
+  },
+  "459-0": {
+    "num": "str"
+  },
+  "173-0": {
+    "l2": "list"
+  },
+  "203-0": {
+    "result": "object"
+  },
+  "231-2": {
+    "nums3": "list"
+  },
+  "67-0": {
+    "num": "list"
+  },
+  "55-2": {
+    "mums4": "list"
+  },
+  "423-0": {
+    "text1": "str"
+  },
+  "127-0": {
+    "df": "DataFrame"
+  },
+  "7-0": {
+    "fib_series": "callable"
+  },
+  "437-0": {
+    "arr1": "ndarray"
+  },
+  "88-2": {
+    "r1": "ndarray"
+  },
+  "190-1": {
+    "n1": "list"
+  },
+  "473-1": {
+    "even_nums": "list"
+  },
+  "409-1": {
+    "nums1": "Series"
+  },
+  "84-1": {
+    "count_odd": "int"
+  },
+  "167-0": {
+    "s": "str"
+  },
+  "351-0": {
+    "result": "list"
+  },
+  "146-1": {
+    "y": "ndarray"
+  },
+  "28-1": {
+    "n": "int"
+  },
+  "272-0": {
+    "nums": "list"
+  },
+  "102-0": {
+    "date_range": "object"
+  },
+  "428-0": {
+    "result1": "ndarray"
+  },
+  "334-0": {
+    "df": "DataFrame"
+  },
+  "178-0": {
+    "items": "doubly_linked_list"
+  },
+  "452-0": {
+    "df": "dict"
+  },
+  "16-0": {
+    "nums": "list"
+  },
+  "387-0": {
+    "nums": "list"
+  },
+  "327-0": {
+    "L": "list"
+  },
+  "492-0": {
+    "df1": "DataFrame"
+  },
+  "46-1": {
+    "nums_dq": "str"
+  },
+  "500-0": {
+    "df": "dict"
+  },
+  "377-3": {
+    "df": "DataFrame"
+  },
+  "78-0": {
+    "result1": "DataFrame"
+  },
+  "423-1": {
+    "sample_text": "str"
+  },
+  "55-3": {
+    "mums2": "list"
+  },
+  "203-1": {
+    "a": "int"
+  },
+  "173-1": {
+    "l1": "list"
+  },
+  "120-4": {
+    "l2": "list"
+  },
+  "315-0": {
+    "nlist": "list"
+  },
+  "347-1": {
+    "s2": "Series"
+  },
+  "409-0": {
+    "nums2": "Series"
+  },
+  "377-6": {
+    "sales_tuples": "list"
+  },
+  "123-0": {
+    "x": "ndarray"
+  },
+  "137-4": {
+    "df": "DataFrame"
+  },
+  "473-0": {
+    "nums": "list"
+  },
+  "347-2": {
+    "s1": "Series"
+  },
+  "190-0": {
+    "n2": "list"
+  },
+  "229-0": {
+    "df": "dict"
+  },
+  "73-1": {
+    "new_array1": "list"
+  },
+  "417-2": {
+    "result": "list"
+  },
+  "461-1": {
+    "y": "int"
+  },
+  "205-0": {
+    "r2": "object"
+  },
+  "237-2": {
+    "r1": "ndarray"
+  },
+  "288-1": {
+    "num_arra": "list"
+  },
+  "371-2": {
+    "th_props": "list"
+  },
+  "161-0": {
+    "result": "list"
+  },
+  "482-0": {
+    "deque_colors": "dict"
+  },
+  "357-0": {
+    "nbday": "object"
+  },
+  "82-1": {
+    "result": "list"
+  },
+  "211-0": {
+    "nums": "list"
+  },
+  "475-1": {
+    "num_str": "object"
+  },
+  "431-0": {
+    "items": "doubly_linked_list"
+  },
+  "1-0": {
+    "x": "ndarray"
+  },
+  "75-0": {
+    "n_list": "list"
+  },
+  "458-2": {
+    "new_list": "list"
+  },
+  "332-1": {
+    "result": "list"
+  },
+  "230-0": {
+    "nums": "list"
+  },
+  "411-0": {
+    "sales_tuples": "list"
+  },
+  "104-1": {
+    "year": "callable"
+  },
+  "89-0": {
+    "result": "object"
+  },
+  "349-0": {
+    "class_students": "list"
+  },
+  "27-2": {
+    "s": "Series"
+  },
+  "117-0": {
+    "result": "DataFrame"
+  },
+  "395-1": {
+    "y": "ndarray"
+  },
+  "224-0": {
+    "d": "dict"
+  },
+  "197-0": {
+    "r1": "ndarray"
+  },
+  "356-1": {
+    "result": "list"
+  },
+  "492-1": {
+    "df": "DataFrame"
+  },
+  "166-0": {
+    "dict_data_list": "list"
+  },
+  "160-1": {
+    "unwanted_chars": "list"
+  },
+  "312-0": {
+    "array1": "int"
+  },
+  "78-2": {
+    "result": "list"
+  },
+  "124-0": {
+    "arra_data": "dict"
+  },
+  "306-0": {
+    "nums": "int"
+  },
+  "428-2": {
+    "result2": "ndarray"
+  },
+  "272-2": {
+    "total_negative_nums": "list"
+  },
+  "183-0": {
+    "x": "int"
+  },
+  "460-0": {
+    "dateset2": "object"
+  },
+  "24-0": {
+    "df": "DataFrame"
+  },
+  "84-2": {
+    "count_even": "int"
+  },
+  "155-1": {
+    "N": "int"
+  },
+  "86-0": {
+    "result": "DataFrame"
+  },
+  "41-1": {
+    "series1": "Series"
+  },
+  "88-1": {
+    "r2": "object"
+  },
+  "473-2": {
+    "odd_nums": "list"
+  },
+  "488-0": {
+    "str1": "list"
+  },
+  "397-4": {
+    "obday": "object"
+  },
+  "455-0": {
+    "df": "DataFrame"
+  },
+  "26-3": {
+    "nums_y": "dict"
+  },
+  "380-0": {
+    "items": "list"
+  },
+  "55-1": {
+    "mums3": "list"
+  },
+  "275-0": {
+    "x": "ndarray"
+  },
+  "105-0": {
+    "str1": "str"
+  },
+  "132-1": {
+    "df": "DataFrame"
+  },
+  "231-1": {
+    "nums2": "list"
+  },
+  "245-1": {
+    "n": "int"
+  },
+  "333-0": {
+    "colors": "list"
+  },
+  "117-1": {
+    "df": "DataFrame"
+  },
+  "259-0": {
+    "data1": "DataFrame"
+  },
+  "321-1": {
+    "list2": "list"
+  },
+  "79-1": {
+    "d": "ndarray"
+  },
+  "273-0": {
+    "result": "DataFrame"
+  },
+  "223-0": {
+    "nums": "ndarray"
+  },
+  "347-3": {
+    "s3": "Series"
+  },
+  "153-0": {
+    "list_color": "list"
+  },
+  "479-0": {
+    "l1": "list"
+  },
+  "357-2": {
+    "newday": "object"
+  },
+  "365-0": {
+    "df": "DataFrame"
+  },
+  "403-0": {
+    "class_rollno": "dict"
+  },
+  "386-1": {
+    "result": "object"
+  },
+  "284-0": {
+    "nums1": "list"
+  },
+  "17-1": {
+    "result": "list"
+  },
+  "453-1": {
+    "word_freq": "list"
+  },
+  "371-0": {
+    "df": "DataFrame"
+  },
+  "179-1": {
+    "x": "ndarray"
+  },
+  "288-3": {
+    "num_dict": "list"
+  },
+  "6-0": {
+    "str_list1": "list"
+  },
+  "485-0": {
+    "str1": "str"
+  },
+  "362-2": {
+    "y": "ndarray"
+  },
+  "399-0": {
+    "d": "dict"
+  },
+  "350-0": {
+    "array_num": "list"
+  },
+  "216-0": {
+    "user_input": "str"
+  },
+  "314-1": {
+    "result": "object"
+  },
+  "314-2": {
+    "nums_arr": "list"
+  },
+  "104-3": {
+    "now": "object"
+  },
+  "458-0": {
+    "my_list": "list"
+  },
+  "491-0": {
+    "nums": "list"
+  },
+  "422-0": {
+    "ytp": "object"
+  },
+  "22-1": {
+    "nums1": "int"
+  },
+  "466-1": {
+    "nums": "list"
+  },
+  "447-0": {
+    "result": "Series"
+  },
+  "403-1": {
+    "classes": "list"
+  },
+  "321-0": {
+    "list1": "list"
+  },
+  "429-0": {
+    "nums": "list"
+  },
+  "335-0": {
+    "os_profile": "list"
+  },
+  "259-1": {
+    "result": "DataFrame"
+  },
+  "237-1": {
+    "r2": "ndarray"
+  },
+  "288-2": {
+    "num_ser": "Series"
+  },
+  "371-1": {
+    "td_props": "list"
+  },
+  "417-1": {
+    "num_series": "Series"
+  },
+  "179-0": {
+    "new_array": "ndarray"
+  },
+  "453-0": {
+    "word_list": "list"
+  },
+  "386-0": {
+    "df_agg": "dict"
+  },
+  "259-2": {
+    "data2": "DataFrame"
+  },
+  "365-2": {
+    "sales_tuples": "list"
+  },
+  "284-1": {
+    "nums2": "list"
+  },
+  "408-0": {
+    "new_nums": "list"
+  },
+  "166-1": {
+    "df": "DataFrame"
+  },
+  "6-1": {
+    "l": "int"
+  },
+  "472-0": {
+    "func": "callable"
+  },
+  "191-0": {
+    "df": "dict"
+  },
+  "158-0": {
+    "n": "list"
+  },
+  "466-0": {
+    "result": "list"
+  },
+  "22-0": {
+    "nums2": "int"
+  },
+  "458-1": {
+    "n": "int"
+  },
+  "344-1": {
+    "max_length": "int"
+  },
+  "104-2": {
+    "t": "callable"
+  },
+  "273-1": {
+    "df": "DataFrame"
+  },
+  "58-0": {
+    "nlist": "list"
+  },
+  "86-1": {
+    "df": "DataFrame"
+  },
+  "78-3": {
+    "df": "DataFrame"
+  },
+  "312-1": {
+    "array2": "int"
+  },
+  "160-0": {
+    "str1": "str"
+  },
+  "483-0": {
+    "list1": "list"
+  },
+  "356-0": {
+    "index": "list"
+  },
+  "430-0": {
+    "colors": "list"
+  },
+  "24-1": {
+    "result": "DataFrame"
+  },
+  "460-1": {
+    "dateset1": "object"
+  },
+  "183-1": {
+    "new_array": "callable"
+  },
+  "338-0": {
+    "v": "int"
+  },
+  "424-0": {
+    "x": "list"
+  },
+  "185-0": {
+    "df": "DataFrame"
+  },
+  "342-0": {
+    "result": "ndarray"
+  },
+  "240-1": {
+    "result": "list"
+  },
+  "497-0": {
+    "d": "dict"
+  },
+  "296-0": {
+    "df": "dict"
+  },
+  "88-0": {
+    "x": "int"
+  },
+  "41-0": {
+    "result": "str"
+  },
+  "155-0": {
+    "nums": "list"
+  },
+  "261-1": {
+    "colors": "list"
+  },
+  "231-0": {
+    "nums1": "list"
+  },
+  "105-1": {
+    "str2": "str"
+  },
+  "377-0": {
+    "df2": "DataFrame"
+  },
+  "173-2": {
+    "l3": "list"
+  },
+  "233-0": {
+    "color": "list"
+  },
+  "411-2": {
+    "df": "DataFrame"
+  },
+  "365-3": {
+    "sales_arrays": "list"
+  },
+  "188-0": {
+    "x": "ndarray"
+  }
+}

@@ -1,0 +1,12 @@
+# Extracted from https://stackoverflow.com/questions/1373164/how-do-i-create-variable-variables
+# using dictionary
+variables = {}
+variables["first"] = 34
+variables["second"] = 45
+print(variables["first"], variables["second"])
+
+# using namedtuple
+Variables = namedtuple('Variables', ['first', 'second'])
+vars = Variables(34, 45)
+print(vars.first, vars.second)
+

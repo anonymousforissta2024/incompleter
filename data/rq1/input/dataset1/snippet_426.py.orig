@@ -1,0 +1,3 @@
+# Extracted from https://stackoverflow.com/questions/29530232/how-to-check-if-any-value-is-nan-in-a-pandas-dataframe
+df.isnull().sum()
+

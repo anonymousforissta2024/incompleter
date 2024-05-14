@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/77380972/typeerror-hmac-hash-module-is-an-invalid-keyword-argument-for-pbkdf2-hmac
+key = pbkdf2_hmac(password, salt, 32, iterations=1000000, hash_name='sha512')

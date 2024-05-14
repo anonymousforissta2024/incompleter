@@ -1,0 +1,3 @@
+# Extracted from https://stackoverflow.com/questions/303200/how-do-i-remove-delete-a-folder-that-is-not-empty
+os.system('powershell.exe  rmdir -r D:\workspace\Branches\*%s* -Force' %CANDIDATE_BRANCH)
+

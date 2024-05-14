@@ -1,0 +1,5 @@
+# Extracted from https://stackoverflow.com/questions/3451111/unzipping-files-in-python
+import zipfile
+with zipfile.ZipFile("file.zip","r") as zip_ref:
+    zip_ref.extractall("targetdir")
+

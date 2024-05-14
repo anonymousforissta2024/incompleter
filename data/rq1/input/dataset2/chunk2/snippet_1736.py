@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/56246570/typeerror-init-missing-1-required-positional-argument-branches-but-argu
+review = CvGerrit(segment='consumer', rev_id=gerrit_id, branches=my_branches)

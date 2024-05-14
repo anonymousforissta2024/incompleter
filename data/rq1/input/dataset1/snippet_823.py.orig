@@ -1,0 +1,14 @@
+# Extracted from https://stackoverflow.com/questions/2128505/difference-between-filter-and-filter-by-in-sqlalchemy
+def filter_by(self, **kwargs):
+    return self.filter(sql.and_(**kwargs))
+
+session.query(db.users).filter_by(name='Joe', surname='Dodson')
+
+session.query(db.users).filter(or_(db.users.name=='Ryan', db.users.country=='England'))
+
+session.query(db.users).filter((db.users.name=='Ryan') | (db.users.country=='England'))
+
+Users.query.get(123)
+# And even by a composite PK
+Users.query.get(123, 321)
+

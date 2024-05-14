@@ -1,0 +1,5 @@
+# Extracted from https://stackoverflow.com/questions/107705/disable-output-buffering
+import sys 
+myFile= open( "a.log", "w", 0 ) 
+sys.stdout= myFile
+

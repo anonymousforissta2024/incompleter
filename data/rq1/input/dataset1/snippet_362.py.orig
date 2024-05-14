@@ -1,0 +1,9 @@
+# Extracted from https://stackoverflow.com/questions/4998629/split-string-with-multiple-delimiters-in-python
+import re
+re.split('; |, ', string_to_split)
+
+a='Beautiful, is; better*than\nugly'
+import re
+re.split('; |, |\*|\n',a)
+['Beautiful', 'is', 'better', 'than', 'ugly']
+

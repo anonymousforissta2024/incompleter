@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/47747977/typeerror-data-type-category-not-understood
+train = pd.read_csv("C:/shubhamprojectwork/Kagglecomp/livecomp/My music recomment/train.csv/train.csv", dtype={'msno' : 'category','song_id' : 'category','source_system_tab' : 'category','source_screen_name' : 'category','source_type' : 'category','target' : np.uint8})

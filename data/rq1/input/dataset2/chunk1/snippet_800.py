@@ -1,0 +1,26 @@
+#Source: https://stackoverflow.com/questions/61973622/attributeerror-dict-object-has-no-attribute-split
+body = {
+        'dont-ask-for-email': 0,
+        'action': 'submit_user_review',
+        'post_id': 76196,
+        'email': email_random(),
+        'subscribe': 1,
+        'previous_hosting_id': prev_hosting_comp_random(),
+        'fb_token': '',
+        'title': review_title_random(),
+        'summary': summary_random(),
+        'score_pricing': star_random(),
+        'score_userfriendly': star_random(),
+        'score_support': star_random(),
+        'score_features': star_random(),
+        'hosting_type': hosting_type_random(),
+        'author': name_random(),
+        'social_link': '',
+        'site': '',
+        'screenshot[image][]': '',
+        'screenshot[description][]': '',
+        'user_data_process_agreement': 1,
+        'user_email_popup': '',
+        'subscribe_popup': 1,
+        'email_asked': 1
+}

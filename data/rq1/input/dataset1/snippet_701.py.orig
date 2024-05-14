@@ -1,0 +1,4 @@
+# Extracted from https://stackoverflow.com/questions/5055042/whats-the-best-practice-using-a-settings-file-in-python
+import yaml
+config = yaml.safe_load(open("path/to/config.yml"))
+

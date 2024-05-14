@@ -1,0 +1,19 @@
+# Extracted from https://stackoverflow.com/questions/13331698/how-to-apply-a-function-to-two-columns-of-pandas-dataframe
+import pandas as pd
+
+df = pd.DataFrame({'ID':['1','2','3'], 'col_1': [0,2,3], 'col_2':[1,4,5]})
+mylist = ['a','b','c','d','e','f']
+
+def get_sublist(sta,end):
+    return mylist[sta:end+1]
+
+def get_sublist_list(cols):
+    return [get_sublist(cols[0],cols[1])]
+
+def unlist(list_of_lists):
+    return list_of_lists[0]
+
+df['col_3'] = df[['col_1','col_2']].apply(get_sublist_list,axis=1).apply(unlist)
+
+df
+

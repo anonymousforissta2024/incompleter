@@ -1,0 +1,3 @@
+# Extracted from https://stackoverflow.com/questions/2225564/get-a-filtered-list-of-files-in-a-directory
+files = [f for f in os.listdir('.') if re.match(r'[0-9]+.*\.jpg', f)]
+

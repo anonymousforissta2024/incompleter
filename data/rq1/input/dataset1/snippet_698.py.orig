@@ -1,0 +1,5 @@
+# Extracted from https://stackoverflow.com/questions/9834038/django-order-by-query-set-ascending-and-descending
+Reserved.objects.all().filter(client=client_id).order_by('check_in')
+
+Reserved.objects.all().filter(client=client_id).order_by('-check_in')
+

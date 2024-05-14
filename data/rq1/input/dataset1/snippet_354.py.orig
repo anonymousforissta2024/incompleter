@@ -1,0 +1,9 @@
+# Extracted from https://stackoverflow.com/questions/518021/is-arr-len-the-preferred-way-to-get-the-length-of-an-array-in-python
+import array
+arr = array.array('i')
+arr.append('2')
+arr.__len__()
+1
+len(arr)
+1
+

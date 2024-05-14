@@ -1,0 +1,6 @@
+# Extracted from https://stackoverflow.com/questions/180986/what-is-the-difference-between-re-search-and-re-match
+re.search('test', ' test')      # returns a Truthy match object (because the search starts from any index) 
+
+re.match('test', ' test')       # returns None (because the search start from 0 index)
+re.match('test', 'test')        # returns a Truthy match object (match at 0 index)
+

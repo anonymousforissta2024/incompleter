@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/75298674/changes-in-column-table2-to-be-sum-on-table1-column-show-attribute-error-in-py
+cur.execute("Update custprodt, product set name1=? ,price1=?, quant1=? , remcont1=quant=?  where cpid=? , pid=? ",(self.var_pname.get(),self.var_price.get(),self.var_qty.get(),self.var_updatevalue.get()== self.var_qunt.get(),self.var_cpid.get(),self.var_pid.get(),))

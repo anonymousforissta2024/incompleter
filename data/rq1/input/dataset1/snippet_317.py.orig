@@ -1,0 +1,15 @@
+# Extracted from https://stackoverflow.com/questions/9257094/how-to-change-a-string-into-uppercase
+"string".upper()
+
+s.upper()
+
+"string".lower()
+
+s.lower()
+
+s="sadf"
+# sadf
+
+s=s.upper()
+# SADF
+

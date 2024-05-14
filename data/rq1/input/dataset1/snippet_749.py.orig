@@ -1,0 +1,3 @@
+# Extracted from https://stackoverflow.com/questions/5352546/extract-a-subset-of-key-value-pairs-from-dictionary
+{k: bigdict[k] for k in bigdict.keys() if k not in ['l', 'm', 'n']}
+

@@ -1,0 +1,5 @@
+# Extracted from https://stackoverflow.com/questions/500864/case-insensitive-regular-expression-without-re-compile
+re.search('test', 'TeSt', re.IGNORECASE)
+re.match('test', 'TeSt', re.IGNORECASE)
+re.sub('test', 'xxxx', 'Testing', flags=re.IGNORECASE)
+

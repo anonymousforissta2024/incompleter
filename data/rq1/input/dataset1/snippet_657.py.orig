@@ -1,0 +1,6 @@
+# Extracted from https://stackoverflow.com/questions/32370281/how-to-embed-image-or-picture-in-jupyter-notebook-either-from-a-local-machine-o
+import requests
+from ipywidgets import Image
+
+Image(value=requests.get('https://octodex.github.com/images/yaktocat.png').content)
+

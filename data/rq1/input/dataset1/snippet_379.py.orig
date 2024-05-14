@@ -1,0 +1,11 @@
+# Extracted from https://stackoverflow.com/questions/20906474/import-multiple-csv-files-into-pandas-and-concatenate-into-one-dataframe
+import os
+import glob
+import pandas
+from collections import OrderedDict
+path =r'C:\DRO\DCL_rawdata_files'
+filenames = glob.glob(path + "/*.csv")
+
+dict_of_df = OrderedDict((f, pandas.read_csv(f)) for f in filenames)
+pandas.concat(dict_of_df, sort=True)
+

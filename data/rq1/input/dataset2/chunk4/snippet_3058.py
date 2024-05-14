@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/63118741/is-this-syntax-correct-for-python-insert-operation-for-mysql-i-got-error-type
+cmd="insert into People(ID,Name,Age,Gender,CriminalRecords)values("+str(Id)+","+str(Name)+","+str(Age)+","+str(Gender)+","+str(Criminal)+")"

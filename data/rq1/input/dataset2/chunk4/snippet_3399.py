@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/64833301/typeerror-precision-score-got-an-unexpected-keyword-argument-y-pred
+X_train,X_test, Y_train,Y_test = train_test_split(cancer_data.data, cancer_data.target,test_size=0.2, random_state=209)

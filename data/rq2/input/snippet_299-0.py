@@ -1,0 +1,10 @@
+import pandas as pd
+pd.set_option('display.max_rows', None)
+print('Original DataFrame:')
+print(student_data)
+print('\nSplit the said data on school_code wise:')
+grouped = student_data.groupby(['school_code'])
+print("Call school code 's001':")
+print(grouped.get_group('s001'))
+print("\nCall school code 's004':")
+print(grouped.get_group('s004'))

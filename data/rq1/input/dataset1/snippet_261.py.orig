@@ -1,0 +1,6 @@
+# Extracted from https://stackoverflow.com/questions/1207406/how-to-remove-items-from-a-list-while-iterating
+somelist[:] = filter(lambda tup: not determine(tup), somelist)
+
+from itertools import ifilterfalse
+somelist[:] = list(ifilterfalse(determine, somelist))
+

@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/71471802/python-filenotfounderror-errno-2-no-such-file-or-directory-post-jpg-but-he
+upload = random.choice(os.listdir("/Instagram Bot/Quote Script/upload/"))

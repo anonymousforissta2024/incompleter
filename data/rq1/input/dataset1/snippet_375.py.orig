@@ -1,0 +1,41 @@
+# Extracted from https://stackoverflow.com/questions/12608788/changing-the-tick-frequency-on-the-x-or-y-axis
+# Note the super cluttered ticks on both X and Y axis.
+
+# inputs
+x = np.arange(1, 101)
+y = x * np.log(x) 
+
+fig = plt.figure()     # create figure
+ax = fig.add_subplot(111)
+ax.plot(x, y)
+ax.set_xticks(x)        # set xtick values
+ax.set_yticks(y)        # set ytick values
+
+plt.show()
+
+# inputs
+x = np.arange(1, 101)
+y = x * np.log(x)
+
+fig = plt.figure()       # create figure
+ax = fig.add_subplot(111)
+ax.plot(x, y)
+
+ax.set_xticks(x)
+ax.set_yticks(y)
+
+# which values need to be shown?
+# here, we show every third value from `x` and `y`
+show_every = 3
+
+sparse_xticks = [None] * x.shape[0]
+sparse_xticks[::show_every] = x[::show_every]
+
+sparse_yticks = [None] * y.shape[0]
+sparse_yticks[::show_every] = y[::show_every]
+
+ax.set_xticklabels(sparse_xticks, fontsize=6)   # set sparse xtick values
+ax.set_yticklabels(sparse_yticks, fontsize=6)   # set sparse ytick values
+
+plt.show()
+

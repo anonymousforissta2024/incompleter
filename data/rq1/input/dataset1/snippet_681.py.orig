@@ -1,0 +1,15 @@
+# Extracted from https://stackoverflow.com/questions/2077897/substitute-multiple-whitespace-with-single-whitespace-in-python
+import re
+
+_RE_COMBINE_WHITESPACE = re.compile(r"\s+")
+
+my_str = _RE_COMBINE_WHITESPACE.sub(" ", my_str).strip()
+
+import re
+
+_RE_COMBINE_WHITESPACE = re.compile(r"(?a:\s+)")
+_RE_STRIP_WHITESPACE = re.compile(r"(?a:^\s+|\s+$)")
+
+my_str = _RE_COMBINE_WHITESPACE.sub(" ", my_str)
+my_str = _RE_STRIP_WHITESPACE.sub("", my_str)
+

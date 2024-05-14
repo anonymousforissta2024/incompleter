@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/72064119/typeerror-after-vectorizing-a-function
+within_range(df=df_3,CoCode='2510',Lease_type='1',Position='17310C',Mvt_Type='F30',BKPF_WAERS='HUF',BSEG_BSCHL='50',COBL_KOSTL='2510DDA-612121-01.C',Amount=2442000.0)

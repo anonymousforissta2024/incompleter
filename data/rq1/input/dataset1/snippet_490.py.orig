@@ -1,0 +1,4 @@
+# Extracted from https://stackoverflow.com/questions/13628791/determine-whether-integer-is-between-two-other-integers
+if 10000 <= number <= 30000:
+    pass
+

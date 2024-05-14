@@ -1,0 +1,5 @@
+print('initial string', ini_set)
+print(type(ini_set))
+res = dict.fromkeys(ini_set, 0)
+print('final list', res)
+print(type(res))

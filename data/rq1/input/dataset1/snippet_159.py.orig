@@ -1,0 +1,3 @@
+# Extracted from https://stackoverflow.com/questions/19482970/get-a-list-from-pandas-dataframe-column-headers
+df.columns.tolist()
+

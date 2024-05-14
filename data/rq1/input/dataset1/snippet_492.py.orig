@@ -1,0 +1,20 @@
+# Extracted from https://stackoverflow.com/questions/12578908/separation-of-business-logic-and-data-access-in-django
+class Book:
+   author = models.ForeignKey(User)
+   title = models.CharField(max_length=125)
+
+   class Meta:
+       app_label = "library"
+
+from library.models import Book
+
+def get_books(limit=None, **filters):
+    """ simple service function for retrieving books can be widely extended """
+    return Book.objects.filter(**filters)[:limit]  # list[:None] will return the entire list
+
+from library.services import get_books
+
+class BookListView(ListView):
+    """ simple view, e.g. implement a _build and _apply filters function """
+    queryset = get_books()
+

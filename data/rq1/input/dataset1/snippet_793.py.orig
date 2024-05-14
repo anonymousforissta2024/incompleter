@@ -1,0 +1,17 @@
+# Extracted from https://stackoverflow.com/questions/14432557/scatter-plot-with-different-text-at-each-data-point
+import matplotlib.pyplot as plt
+y = [2.56422, 3.77284, 3.52623, 3.51468, 3.02199]
+z = [0.15, 0.3, 0.45, 0.6, 0.75]
+n = [58, 651, 393, 203, 123]
+
+fig, ax = plt.scatter(z, y)
+
+for i, txt in enumerate(n):
+    ax.annotate(txt, (z[i], y[i]))
+
+import matplotlib.pyplot as plt
+plt.scatter(z, y)
+
+for i, txt in enumerate(n):
+    plt.annotate(txt, (z[i], y[i]))
+

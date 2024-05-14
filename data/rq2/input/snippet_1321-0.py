@@ -1,0 +1,5 @@
+print('Original List: ')
+print(my_list)
+my_list.sort(key=lambda e: e['key']['subkey'], reverse=True)
+print('Sorted List: ')
+print(my_list)

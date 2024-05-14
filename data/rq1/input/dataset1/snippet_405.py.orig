@@ -1,0 +1,4 @@
+# Extracted from https://stackoverflow.com/questions/1810743/how-to-set-the-current-working-directory
+import os
+os.chdir(default_path)
+

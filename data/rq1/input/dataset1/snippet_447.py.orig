@@ -1,0 +1,10 @@
+# Extracted from https://stackoverflow.com/questions/33759623/how-to-save-restore-a-model-after-training
+from keras.models import load_model
+
+my_model.save('my_model.h5')  # creates a HDF5 file 'my_model.h5'
+
+del my_model  # deletes the existing model
+
+
+my_model = load_model('my_model.h5') # returns a compiled model identical to the previous one
+

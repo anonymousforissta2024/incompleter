@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/56506781/how-to-fix-typeerror-if-no-direction-is-specified-key-or-list-must-be-an-inst
+total = mongo.db.recipe.create_index({'$text': {'$search': db_query }})

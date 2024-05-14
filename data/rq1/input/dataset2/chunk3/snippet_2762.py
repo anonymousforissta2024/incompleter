@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/48939168/python-error-typeerror-expected-string-or-buffer
+time.struct_time(tm_year=2018, tm_mon=2, tm_mday=23, tm_hour=23, tm_min=00, tm_sec=0, tm_wday=3, tm_yday=53, tm_isdst=-1)

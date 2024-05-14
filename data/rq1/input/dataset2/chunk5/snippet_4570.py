@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/57243177/typeerror-cant-convert-float-object-to-str-implicitly-grocery-list
+print(str(grocery_item['number']) + grocery_item['name'] + " @ " + str(grocery_item['price']) + " ea "+ item_total)

@@ -1,0 +1,6 @@
+# Extracted from https://stackoverflow.com/questions/44778/how-would-you-make-a-comma-separated-string-from-a-list-of-strings
+import csv
+with open('some.csv', 'w', newline='') as f:
+    writer = csv.writer(f)
+    writer.writerow(l)  # this will output l as a single row.  
+

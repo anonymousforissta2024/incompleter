@@ -1,0 +1,9 @@
+# Extracted from https://stackoverflow.com/questions/3348460/csv-file-written-with-python-has-blank-lines-between-each-row
+#!python3
+with open('/pythonwork/thefile_subset11.csv', 'w', newline='') as outfile:
+    writer = csv.writer(outfile)
+
+#!python2
+with open('/pythonwork/thefile_subset11.csv', 'wb') as outfile:
+    writer = csv.writer(outfile)
+

@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/66827127/i-keep-getting-typeerror-only-integer-scalar-arrays-can-be-converted-to-a-scal
+knn = KNeighborsClassifier(algorithm='ball_tree', metric=chi_squared)

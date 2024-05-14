@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/48773345/filenotfounderror-file-does-not-exist-but-it-does-exist-when-using-df-pd-read
+df = pd.read_csv('stock_dfs/{}.csv'.format(ticker.replace('.'and'-'and',','')))

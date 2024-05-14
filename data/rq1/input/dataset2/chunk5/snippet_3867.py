@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/42117948/pycharm-typeerror-a-bytes-like-object-is-required-not-str
+mysock = socket.socket(socket.AF_INET, socket.SOCK_STREAM) # This is the      line that PyCharm flags as causing the problem.

@@ -1,0 +1,23 @@
+# Extracted from https://stackoverflow.com/questions/4406501/change-the-name-of-a-key-in-dictionary
+def lowercase_keys(obj):
+  if isinstance(obj, dict):
+    obj = {key.lower(): value for key, value in obj.items()}
+    for key, value in obj.items():         
+      if isinstance(value, list):
+        for idx, item in enumerate(value):
+          value[idx] = lowercase_keys(item)
+      obj[key] = lowercase_keys(value)
+  return obj 
+
+json_str = {"FOO": "BAR", "BAR": 123, "EMB_LIST": [{"FOO": "bar", "Bar": 123}, {"FOO": "bar", "Bar": 123}], "EMB_DICT": {"FOO": "BAR", "BAR": 123, "EMB_LIST": [{"FOO": "bar", "Bar": 123}, {"FOO": "bar", "Bar": 123}]}}
+
+lowercase_keys(json_str)
+
+
+Out[0]: {'foo': 'BAR',
+ 'bar': 123,
+ 'emb_list': [{'foo': 'bar', 'bar': 123}, {'foo': 'bar', 'bar': 123}],
+ 'emb_dict': {'foo': 'BAR',
+  'bar': 123,
+  'emb_list': [{'foo': 'bar', 'bar': 123}, {'foo': 'bar', 'bar': 123}]}}
+

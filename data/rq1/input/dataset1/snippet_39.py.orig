@@ -1,0 +1,9 @@
+# Extracted from https://stackoverflow.com/questions/332289/how-do-i-change-the-size-of-figures-drawn-with-matplotlib
+fig = matplotlib.pyplot.gcf()
+fig.set_size_inches(18.5, 10.5)
+fig.savefig('test2png.png', dpi=100)
+
+fig.set_size_inches(18.5, 10.5, forward=True)
+
+fig.set_dpi(100)
+

@@ -1,0 +1,15 @@
+# Extracted from https://stackoverflow.com/questions/843277/how-do-i-check-if-a-variable-exists
+# Search for entry.
+for x in y:
+  if x == 3:
+    found = x
+
+# Work with found entry.
+try:
+  print('Found: {0}'.format(found))
+except NameError:
+  print('Not found')
+else:
+  # Handle rest of Found case here
+  ...
+

@@ -1,0 +1,14 @@
+# Extracted from https://stackoverflow.com/questions/749796/pretty-printing-xml-in-python
+import xml.dom.minidom
+
+file = open("./content.xml", 'r')
+xml_string = file.read()
+file.close()
+
+parsed_xml = xml.dom.minidom.parseString(xml_string)
+pretty_xml_as_string = parsed_xml.toprettyxml()
+
+file = open("./content_new.xml", 'w')
+file.write(pretty_xml_as_string)
+file.close()
+

@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/51946150/django-typeerror-not-supported-between-instances-model-objects
+device_list = [device_list for (dev_status_list, device_list) in sorted(zip(dev_status_list, device_list), key=lambda x: (x[0],x[1].__str__()))]

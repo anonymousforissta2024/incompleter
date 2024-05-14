@@ -1,0 +1,10 @@
+# Extracted from https://stackoverflow.com/questions/6591931/getting-file-size-in-python
+import os
+os.path.getsize('C:\\Python27\\Lib\\genericpath.py')
+
+import os
+os.stat('C:\\Python27\\Lib\\genericpath.py').st_size 
+
+from pathlib import Path
+Path('C:\\Python27\\Lib\\genericpath.py').stat().st_size
+

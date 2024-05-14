@@ -1,0 +1,11 @@
+# Extracted from https://stackoverflow.com/questions/574730/python-how-to-ignore-an-exception-and-proceed
+try:
+    do_something()
+except Exception:
+    pass
+
+try:
+    do_something()
+except Exception:
+    sys.exc_clear()
+

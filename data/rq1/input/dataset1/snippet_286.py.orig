@@ -1,0 +1,12 @@
+# Extracted from https://stackoverflow.com/questions/33054527/typeerror-a-bytes-like-object-is-required-not-str-when-writing-to-a-file-in
+for line in lines:
+    print(type(line))# <class 'bytes'>
+    if 'substring' in line:
+       print('success')
+
+for line in lines:
+    line = line.decode()
+    print(type(line))# <class 'str'>
+    if 'substring' in line:
+       print('success')
+

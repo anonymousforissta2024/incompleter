@@ -1,0 +1,9 @@
+# Extracted from https://stackoverflow.com/questions/17534345/typeerror-missing-1-required-positional-argument-self
+# WRONG! will result in TypeError: getPumps() missing 1 required positional argument: 'self'
+p = Pump
+p.getPumps()
+
+# CORRECT!
+p = Pump()
+p.getPumps()
+

@@ -1,0 +1,13 @@
+import pandas as pd
+print('\nConstruct a Dataframe using the said MultiIndex levels: ')
+df = pd.DataFrame([[1, 2, 3], [3, 4, 5], [5, 6, 7]], columns=cols)
+print(df)
+print('\nRemove the top level index:')
+df.columns = df.columns.droplevel(0)
+print(df)
+df = pd.DataFrame([[1, 2, 3], [3, 4, 5], [5, 6, 7]], columns=cols)
+print('\nOriginal dataframe:')
+print(df)
+print('\nRemove the index next to top level:')
+df.columns = df.columns.droplevel(1)
+print(df)

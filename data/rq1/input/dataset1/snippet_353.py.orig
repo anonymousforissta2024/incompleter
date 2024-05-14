@@ -1,0 +1,11 @@
+# Extracted from https://stackoverflow.com/questions/855759/what-is-the-intended-use-of-the-optional-else-clause-of-the-try-statement-in
+try:
+    do_init_stuff()
+except:
+    handle_init_suff_execption()
+else:
+    try:
+        do_middle_stuff()
+    except:
+        handle_middle_stuff_exception()
+

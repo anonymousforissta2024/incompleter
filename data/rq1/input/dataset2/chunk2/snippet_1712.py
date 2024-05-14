@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/54381303/typeerror-type-combinedexpression-doesnt-define-round-method
+Article.objects.filter(article_stat__elapsed_time_in_seconds=(round(datetime.now(timezone.utc) - F("created_on")) / 300) * 300)

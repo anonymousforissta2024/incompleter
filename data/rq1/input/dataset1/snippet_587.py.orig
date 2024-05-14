@@ -1,0 +1,5 @@
+# Extracted from https://stackoverflow.com/questions/1592565/determine-if-variable-is-defined-in-python
+a = None
+if condition:
+    a = 42
+

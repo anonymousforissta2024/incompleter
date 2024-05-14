@@ -1,0 +1,6 @@
+# Extracted from https://stackoverflow.com/questions/2081640/what-exactly-do-u-and-r-string-prefixes-do-and-what-are-raw-string-literals
+sys.getsizeof('ciao')
+28
+sys.getsizeof(u'ciao')
+34
+

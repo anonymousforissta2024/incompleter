@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/57215427/attributeerror-kerastpumodel-object-has-no-attribute-ckpt-saved-epoch
+model.fit(X_train,y_train,epochs=10,batch_size=64*8,validation_data=(X_test,y_test))

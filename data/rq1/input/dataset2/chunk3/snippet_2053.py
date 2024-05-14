@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/49561868/pd-drop-throws-typeerror-not-supported-between-instances-of-str-and-in
+set_to_remove = set(list(copy_data)) - set([self.farmConfig['mapping'][column]['column'].split('.')[0] for column in self.farmConfig['mapping']])

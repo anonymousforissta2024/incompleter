@@ -1,0 +1,6 @@
+# Extracted from https://stackoverflow.com/questions/9979970/why-does-python-use-else-after-for-and-while-loops
+for item in sequence:
+    process(item)
+else:  # no break
+    suite
+

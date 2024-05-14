@@ -1,0 +1,15 @@
+# Extracted from https://stackoverflow.com/questions/10377998/how-can-i-iterate-over-files-in-a-given-directory
+import glob
+import os
+
+#to get the current working directory name
+cwd = os.getcwd()
+#Load the images from images folder.
+for f in glob.glob('images\*.jpg'):   
+    dir_name = get_dir_name(f)
+    image_file_name = dir_name + '.jpg'
+    #To print the file name with path (path will be in string)
+    print (image_file_name)
+
+os.listdir(directory)
+

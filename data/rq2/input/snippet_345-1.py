@@ -1,0 +1,12 @@
+import numpy as np
+print('Original array: ')
+print(x)
+print('Cumulative product  of the elements along a given axis:')
+r = np.cumprod(x)
+print(r)
+print('\nProduct over rows for each of the 3 columns:')
+r = np.cumprod(x, axis=0)
+print(r)
+print('\nProduct  over columns for each of the 2 rows:')
+r = np.cumprod(x, axis=1)
+print(r)

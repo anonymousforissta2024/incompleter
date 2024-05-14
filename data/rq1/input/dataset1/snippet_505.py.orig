@@ -1,0 +1,7 @@
+# Extracted from https://stackoverflow.com/questions/14770735/how-do-i-change-the-figure-size-with-subplots
+plt.figure(figsize=(16, 8)) 
+for i in range(1, 7):
+    plt.subplot(2, 3, i)
+    plt.title('Histogram of {}'.format(str(i)))
+    plt.hist(x[:,i-1], bins=60)
+

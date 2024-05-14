@@ -1,0 +1,11 @@
+# Extracted from https://stackoverflow.com/questions/1158076/implement-touch-using-python
+import os
+def func(filename):
+    if os.path.exists(filename):
+        os.utime(filename)
+    else:
+        with open(filename,'a') as f:
+            pass
+
+os.utime(filename,(atime,mtime))
+

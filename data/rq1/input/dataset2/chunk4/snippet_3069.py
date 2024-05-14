@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/48626147/python-typeerror-cant-concat-bytes-to-str
+pack('!i', int(0))+pack('!b', int(this.lastPacketID))+pack('!h', int(2))+"br"+pack('!h', int(2))+"br"+pack('!i', int(this.authKey))+pack('!i', int(this.authKeyLogin))

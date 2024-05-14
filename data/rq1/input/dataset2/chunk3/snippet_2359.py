@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/50609815/pandas-typeerror-invalid-type-comparison-when-comparing-datetime64-when-using-n
+np.where(df.groupby('group_id')['payment_date'].transform('nunique') == 1, 0, 10)

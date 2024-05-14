@@ -1,0 +1,10 @@
+# Extracted from https://stackoverflow.com/questions/448271/what-is-init-py-for
+import os
+import sys
+dir_path = os.path.dirname(__file__)
+sys.path.insert(0, dir_path)
+
+import cheese
+from vehicle_parts import *
+# etc.
+

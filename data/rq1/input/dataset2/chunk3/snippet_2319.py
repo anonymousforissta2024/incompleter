@@ -1,0 +1,2 @@
+#Source: https://stackoverflow.com/questions/68136084/long-list-creating-sorted-typeerror-nonetype-object-is-not-subscriptable
+option_list = sorted(option_list[:-5000], key = lambda option: option['expiration_date'])
